@@ -1,85 +1,485 @@
-calories,carbohydrates,cholesterol,fat,protein,sodium,url
-251,35.7g,,11g,3.6g,200mg.,https://www.allrecipes.com/recipe/277492/slow-cooker-vegan-leek-and-potato-soup/
-415,41.1g,86.5mg,14.1g,29.8g,1281.2mg.,https://www.allrecipes.com/recipe/276451/slow-cooker-turkey-meatballs-in-tomato-sauce/
-403,30.6g,91.2mg,21.7g,22.4g,884mg.,https://www.allrecipes.com/recipe/256610/grandmas-hungarian-stuffed-cabbage-slow-cooker-variation/
-268,30.4g,23.4mg,9.3g,15.6g,966.9mg.,https://www.allrecipes.com/recipe/276968/slow-cooked-stew-meat-chili/
-325,52.6g,22.4mg,10.2g,7.4g,73.2mg.,https://www.allrecipes.com/recipe/274531/creamy-slow-cooker-steel-cut-oats/
-414,5.5g,143mg,29.4g,30.1g,376.4mg.,https://www.allrecipes.com/recipe/275943/slow-cooker-chicken-bone-broth/
-190,29.8g,89mg,5.6g,5g,197.6mg.,https://www.allrecipes.com/recipe/219782/meadowwood-tapioca-pudding/
-90,15.6g,8.3mg,2.3g,2.2g,42mg.,https://www.allrecipes.com/recipe/58312/slow-cooker-chai/
-480,17.2g,102.6mg,33.3g,30.6g,442mg.,https://www.allrecipes.com/recipe/174543/slow-cooker-butter-chicken/
-501,32.4g,117mg,29.6g,24.3g,1067.4mg.,https://www.allrecipes.com/recipe/228498/slow-cooker-baby-back-ribs/
-465,57.3g,70.3mg,13g,29.8g,733.9mg.,https://www.allrecipes.com/recipe/274464/slow-cooker-mediterranean-chicken-and-vegetables/
-140,37.3g,,0.5g,1.1g,0.4mg.,https://www.allrecipes.com/recipe/256825/warm-berry-compote/
-385,37g,44.8mg,18g,18.1g,1244.6mg.,https://www.allrecipes.com/recipe/8941/slow-cooker-chicken-and-dumplings/
-314,10g,171.3mg,8g,48g,1881.7mg.,https://www.allrecipes.com/recipe/23825/slow-cooker-venison-roast/
-446,35.7g,71.6mg,20.3g,31.2g,1420.2mg.,https://www.allrecipes.com/recipe/11959/slow-cooker-lasagna/
-335,49.4g,49.1mg,5g,21.2g,990.1mg.,https://www.allrecipes.com/recipe/141678/slow-cooker-pulled-pork/
-300,32.4g,60.8mg,8.1g,23g,1058.4mg.,https://www.allrecipes.com/recipe/65896/zesty-slow-cooker-chicken-barbecue/
-262,24.7g,45.4mg,10.8g,18g,893.4mg.,https://www.allrecipes.com/recipe/89539/slow-cooker-chicken-tortilla-soup/
-340,32.4g,94.3mg,14.6g,19.1g,175.7mg.,https://www.allrecipes.com/recipe/239824/grape-jelly-meatballs/
-528,45.5g,98.4mg,23.2g,31.9g,802.7mg.,https://www.allrecipes.com/recipe/92462/slow-cooker-texas-pulled-pork/
-576,29.8g,131.5mg,30.3g,44.1g,541.5mg.,https://www.allrecipes.com/recipe/14685/slow-cooker-beef-stew-i/
-364,41.1g,87.8mg,7.3g,34.7g,1060mg.,https://www.allrecipes.com/recipe/241601/sesame-chicken-for-slow-cooker/
-208,36.4g,,2.1g,12g,193.9mg.,https://www.allrecipes.com/recipe/282532/slow-cooker-mediterranean-lentil-stew/
-284,13.7g,65.5mg,15.3g,22.4g,720.1mg.,https://www.allrecipes.com/recipe/24791/easy-slow-cooker-chicken-wings/
-540,18.2g,147.4mg,30.6g,45.7g,271.9mg.,https://www.allrecipes.com/recipe/16346/maries-easy-slow-cooker-pot-roast/
-402,33.7g,65mg,18.3g,28.1g,1257.1mg.,https://www.allrecipes.com/recipe/237576/slow-cooker-chipotle-chili/
-385,37g,44.8mg,18g,18.1g,1244.6mg.,https://www.allrecipes.com/recipe/8941/slow-cooker-chicken-and-dumplings/
-102,18.6g,2.3mg,2.3g,3g,49.4mg.,https://www.allrecipes.com/recipe/275315/slow-cooker-green-beans-and-potatoes/
-377,28.3g,56.4mg,24.6g,11.1g,1278.3mg.,https://www.allrecipes.com/recipe/213073/slow-cooker-cocktail-smokies/
-473,49.5g,99.5mg,19.6g,23.6g,1280.6mg.,https://www.allrecipes.com/recipe/84270/slow-cooker-corned-beef-and-cabbage/
-232,8.7g,60.2mg,13.6g,18.6g,790.4mg.,https://www.allrecipes.com/recipe/157940/outrageous-warm-chicken-nacho-dip/
-180,5.8g,65.5mg,3.7g,24.5g,917.5mg.,https://www.allrecipes.com/recipe/75861/amazing-pork-tenderloin-in-the-slow-cooker/
-318,1.6g,100.4mg,15.8g,39.4g,819.1mg.,https://www.allrecipes.com/recipe/16427/slow-cooker-italian-beef-for-sandwiches/
-362,37.8g,48.5mg,16.3g,18.2g,1356mg.,https://www.allrecipes.com/recipe/16678/slow-cooker-taco-soup/
-778,7.6g,198.5mg,57.3g,54.6g,602.5mg.,https://www.allrecipes.com/recipe/220125/slow-cooker-beef-pot-roast/
-273,33.4g,34.4mg,7.6g,18.9g,975mg.,https://www.allrecipes.com/recipe/48449/slow-cooker-chili-ii/
-276,32.8g,41.8mg,7.6g,21.2g,547.2mg.,https://www.allrecipes.com/recipe/82768/lauras-quick-slow-cooker-turkey-chili/
-526,42.4g,103.2mg,25.3g,31.7g,547.4mg.,https://www.allrecipes.com/recipe/14670/easiest-pot-roast-ever/
-280,2.9g,78.2mg,20.1g,20g,915.4mg.,https://www.allrecipes.com/recipe/260697/mississippi-pot-roast/
-302,12.2g,73.5mg,18.4g,21.7g,2172.4mg.,https://www.allrecipes.com/recipe/278888/slow-cooker-creamy-chicken-taco-soup/
-386,3.5g,108.6mg,34.4g,16.1g,2472.2mg.,https://www.allrecipes.com/recipe/230993/awesome-slow-cooker-buffalo-wings/
-250,17.5g,37.6mg,14.7g,11g,595.9mg.,https://www.allrecipes.com/recipe/228859/slow-cooker-french-onion-soup/
-251,35.7g,,11g,3.6g,200mg.,https://www.allrecipes.com/recipe/277492/slow-cooker-vegan-leek-and-potato-soup/
-415,41.1g,86.5mg,14.1g,29.8g,1281.2mg.,https://www.allrecipes.com/recipe/276451/slow-cooker-turkey-meatballs-in-tomato-sauce/
-403,30.6g,91.2mg,21.7g,22.4g,884mg.,https://www.allrecipes.com/recipe/256610/grandmas-hungarian-stuffed-cabbage-slow-cooker-variation/
-268,30.4g,23.4mg,9.3g,15.6g,966.9mg.,https://www.allrecipes.com/recipe/276968/slow-cooked-stew-meat-chili/
-325,52.6g,22.4mg,10.2g,7.4g,73.2mg.,https://www.allrecipes.com/recipe/274531/creamy-slow-cooker-steel-cut-oats/
-414,5.5g,143mg,29.4g,30.1g,376.4mg.,https://www.allrecipes.com/recipe/275943/slow-cooker-chicken-bone-broth/
-190,29.8g,89mg,5.6g,5g,197.6mg.,https://www.allrecipes.com/recipe/219782/meadowwood-tapioca-pudding/
-90,15.6g,8.3mg,2.3g,2.2g,42mg.,https://www.allrecipes.com/recipe/58312/slow-cooker-chai/
-480,17.2g,102.6mg,33.3g,30.6g,442mg.,https://www.allrecipes.com/recipe/174543/slow-cooker-butter-chicken/
-501,32.4g,117mg,29.6g,24.3g,1067.4mg.,https://www.allrecipes.com/recipe/228498/slow-cooker-baby-back-ribs/
-465,57.3g,70.3mg,13g,29.8g,733.9mg.,https://www.allrecipes.com/recipe/274464/slow-cooker-mediterranean-chicken-and-vegetables/
-140,37.3g,,0.5g,1.1g,0.4mg.,https://www.allrecipes.com/recipe/256825/warm-berry-compote/
-385,37g,44.8mg,18g,18.1g,1244.6mg.,https://www.allrecipes.com/recipe/8941/slow-cooker-chicken-and-dumplings/
-314,10g,171.3mg,8g,48g,1881.7mg.,https://www.allrecipes.com/recipe/23825/slow-cooker-venison-roast/
-446,35.7g,71.6mg,20.3g,31.2g,1420.2mg.,https://www.allrecipes.com/recipe/11959/slow-cooker-lasagna/
-335,49.4g,49.1mg,5g,21.2g,990.1mg.,https://www.allrecipes.com/recipe/141678/slow-cooker-pulled-pork/
-300,32.4g,60.8mg,8.1g,23g,1058.4mg.,https://www.allrecipes.com/recipe/65896/zesty-slow-cooker-chicken-barbecue/
-262,24.7g,45.4mg,10.8g,18g,893.4mg.,https://www.allrecipes.com/recipe/89539/slow-cooker-chicken-tortilla-soup/
-340,32.4g,94.3mg,14.6g,19.1g,175.7mg.,https://www.allrecipes.com/recipe/239824/grape-jelly-meatballs/
-528,45.5g,98.4mg,23.2g,31.9g,802.7mg.,https://www.allrecipes.com/recipe/92462/slow-cooker-texas-pulled-pork/
-576,29.8g,131.5mg,30.3g,44.1g,541.5mg.,https://www.allrecipes.com/recipe/14685/slow-cooker-beef-stew-i/
-364,41.1g,87.8mg,7.3g,34.7g,1060mg.,https://www.allrecipes.com/recipe/241601/sesame-chicken-for-slow-cooker/
-208,36.4g,,2.1g,12g,193.9mg.,https://www.allrecipes.com/recipe/282532/slow-cooker-mediterranean-lentil-stew/
-284,13.7g,65.5mg,15.3g,22.4g,720.1mg.,https://www.allrecipes.com/recipe/24791/easy-slow-cooker-chicken-wings/
-540,18.2g,147.4mg,30.6g,45.7g,271.9mg.,https://www.allrecipes.com/recipe/16346/maries-easy-slow-cooker-pot-roast/
-402,33.7g,65mg,18.3g,28.1g,1257.1mg.,https://www.allrecipes.com/recipe/237576/slow-cooker-chipotle-chili/
-385,37g,44.8mg,18g,18.1g,1244.6mg.,https://www.allrecipes.com/recipe/8941/slow-cooker-chicken-and-dumplings/
-102,18.6g,2.3mg,2.3g,3g,49.4mg.,https://www.allrecipes.com/recipe/275315/slow-cooker-green-beans-and-potatoes/
-377,28.3g,56.4mg,24.6g,11.1g,1278.3mg.,https://www.allrecipes.com/recipe/213073/slow-cooker-cocktail-smokies/
-473,49.5g,99.5mg,19.6g,23.6g,1280.6mg.,https://www.allrecipes.com/recipe/84270/slow-cooker-corned-beef-and-cabbage/
-232,8.7g,60.2mg,13.6g,18.6g,790.4mg.,https://www.allrecipes.com/recipe/157940/outrageous-warm-chicken-nacho-dip/
-180,5.8g,65.5mg,3.7g,24.5g,917.5mg.,https://www.allrecipes.com/recipe/75861/amazing-pork-tenderloin-in-the-slow-cooker/
-318,1.6g,100.4mg,15.8g,39.4g,819.1mg.,https://www.allrecipes.com/recipe/16427/slow-cooker-italian-beef-for-sandwiches/
-362,37.8g,48.5mg,16.3g,18.2g,1356mg.,https://www.allrecipes.com/recipe/16678/slow-cooker-taco-soup/
-778,7.6g,198.5mg,57.3g,54.6g,602.5mg.,https://www.allrecipes.com/recipe/220125/slow-cooker-beef-pot-roast/
-273,33.4g,34.4mg,7.6g,18.9g,975mg.,https://www.allrecipes.com/recipe/48449/slow-cooker-chili-ii/
-276,32.8g,41.8mg,7.6g,21.2g,547.2mg.,https://www.allrecipes.com/recipe/82768/lauras-quick-slow-cooker-turkey-chili/
-526,42.4g,103.2mg,25.3g,31.7g,547.4mg.,https://www.allrecipes.com/recipe/14670/easiest-pot-roast-ever/
-280,2.9g,78.2mg,20.1g,20g,915.4mg.,https://www.allrecipes.com/recipe/260697/mississippi-pot-roast/
-302,12.2g,73.5mg,18.4g,21.7g,2172.4mg.,https://www.allrecipes.com/recipe/278888/slow-cooker-creamy-chicken-taco-soup/
-386,3.5g,108.6mg,34.4g,16.1g,2472.2mg.,https://www.allrecipes.com/recipe/230993/awesome-slow-cooker-buffalo-wings/
-250,17.5g,37.6mg,14.7g,11g,595.9mg.,https://www.allrecipes.com/recipe/228859/slow-cooker-french-onion-soup/
+recipe,calories,carbohydrates_g,cholesterol_mg,fat_g,protein_g,sodium_mg,url
+Slow Cooker Creamed Corn Just Like Rudys Bbq,354,26.1,86.8,27.3,5.9,243.4,https://www.allrecipes.com/recipe/234375/slow-cooker-creamed-corn-just-like-rudys-bbq/
+Slow Cooker Salsa Chicken,148,7.5,58.5,2.4,23.1,539.7,https://www.allrecipes.com/recipe/236128/slow-cooker-salsa-chicken/
+Randys Slow Cooker Ravioli Lasagna,544,52.9,91.3,23.6,29.4,1333.8,https://www.allrecipes.com/recipe/234397/randys-slow-cooker-ravioli-lasagna/
+Warm Mexican Corn Dip,138,6.2,35,12.3,2.1,272.9,https://www.allrecipes.com/recipe/107512/warm-mexican-corn-dip/
+Alisons Slow Cooker Vegetable Beef Soup,228,21.2,37.7,9.9,15.4,1716.8,https://www.allrecipes.com/recipe/26354/alisons-slow-cooker-vegetable-beef-soup/
+Slow Cooker Apple Crisp,593,83.8,40.7,28.9,5.8,116.4,https://www.allrecipes.com/recipe/177053/slow-cooker-apple-crisp/
+No Fuss Shredded Beef Tacos,148,3.3,38.7,9.7,10.9,376.7,https://www.allrecipes.com/recipe/221223/no-fuss-shredded-beef-tacos/
+Stefs Slow Cooker Creme Brulee,466,20.3,340.7,41.1,4.7,191.2,https://www.allrecipes.com/recipe/256095/stefs-slow-cooker-creme-brulee/
+Deer Chop Hurry,435,49.2,171.4,5.3,48.2,1352.9,https://www.allrecipes.com/recipe/34384/deer-chop-hurry/
+Slow Cooker Filipino Chicken Adobo,581,3,212.2,35.4,58.5,1094.5,https://www.allrecipes.com/recipe/277270/slow-cooker-filipino-chicken-adobo/
+Slow Cooker Chicken Chili,362,41.9,46.2,10.1,25.4,907.3,https://www.allrecipes.com/recipe/240087/slow-cooker-chicken-chili/
+Easy Sweet Chili,567,85.3,47.3,11.8,33.8,1392.5,https://www.allrecipes.com/recipe/229331/easy-sweet-chili/
+Slow Cooker Cheesy Cauliflower Casserole,243,12.7,41,15.4,14.5,1248,https://www.allrecipes.com/recipe/277917/slow-cooker-cheesy-cauliflower-casserole/
+White Chili Vi,368,40.3,48,12.1,25.7,658.1,https://www.allrecipes.com/recipe/219880/white-chili-vi/
+Slow Cooker Northern White Bean,252,31.1,34,4.5,21.7,1149.5,https://www.allrecipes.com/recipe/239934/slow-cooker-northern-white-bean/
+Slow Cooker Teriyaki Pork Tenderloin,177,10.3,49.8,6.2,19.2,877.2,https://www.allrecipes.com/recipe/165025/slow-cooker-teriyaki-pork-tenderloin/
+Slow Cooker Mediterranean Beef With Artichokes,416,14.1,83.5,26.2,29.9,1452.8,https://www.allrecipes.com/recipe/257152/slow-cooker-mediterranean-beef-with-artichokes/
+Little Smokies,285,28.6,31.2,16.4,6.4,1040.1,https://www.allrecipes.com/recipe/130503/little-smokies/
+Slow Cooker Chicken Cordon Bleu,484,35.4,111.6,21.1,36.3,1205.5,https://www.allrecipes.com/recipe/81124/slow-cooker-chicken-cordon-bleu/
+Warm Berry Compote,140,37.3,,0.5,1.1,0.4,https://www.allrecipes.com/recipe/256825/warm-berry-compote/
+Slow Cooker Stuffing,197,16.6,53.8,13.1,3.9,501.7,https://www.allrecipes.com/recipe/13571/slow-cooker-stuffing/
+Easy Corned Beef And Cabbage,647,45.8,122.7,34.3,38.8,2852,https://www.allrecipes.com/recipe/222592/easy-corned-beef-and-cabbage/
+Slow Cooker Philly Steak Sandwich Meat,251,7.6,60.4,10.6,20.1,601.8,https://www.allrecipes.com/recipe/234396/slow-cooker-philly-steak-sandwich-meat/
+Slow Cooker Kielbasa And Beer,383,7.8,74.9,31.1,14.7,1490.5,https://www.allrecipes.com/recipe/21380/slow-cooker-kielbasa-and-beer/
+Warm Chili Cheese Dip,269,8.5,67.3,20.5,13.4,958.5,https://www.allrecipes.com/recipe/231858/warm-chili-cheese-dip/
+Award Winning White Chicken Chili,179,12.5,44.8,7.7,14.6,932.7,https://www.allrecipes.com/recipe/255245/award-winning-white-chicken-chili/
+Snert Split Pea Soup,487,31.9,65,28.7,25,1566.1,https://www.allrecipes.com/recipe/221233/snert-split-pea-soup/
+Slow Cooker Italian Beef For Sandwiches,318,1.6,100.4,15.8,39.4,819.1,https://www.allrecipes.com/recipe/16427/slow-cooker-italian-beef-for-sandwiches/
+Slow Cooker Pork Chops And Rice,579,56.8,115.1,20,42.1,1133.7,https://www.allrecipes.com/recipe/89248/slow-cooker-pork-chops-and-rice/
+Sausage Barley Soup,382,23.2,53.5,22.9,20.7,2721.7,https://www.allrecipes.com/recipe/70451/sausage-barley-soup/
+Original Homemade Italian Beef,557,38.4,103.1,28.8,31.9,4233.2,https://www.allrecipes.com/recipe/91597/original-homemade-italian-beef/
+Slow Cooker Scalloped Potatoes With Ham,265,33.3,24.3,10.2,10.8,633.9,https://www.allrecipes.com/recipe/47860/slow-cooker-scalloped-potatoes-with-ham/
+Beef And Barley Soup I,58,12.3,,0.4,1.9,744,https://www.allrecipes.com/recipe/13283/beef-and-barley-soup-i/
+Beckys Gluten Free Slow Cooker Chicken Vegetable Soup,198,19.8,49.2,5.6,15.9,1167.9,https://www.allrecipes.com/recipe/255238/beckys-gluten-free-slow-cooker-chicken-vegetable-soup/
+All Day Apple Butter,34,9,,,0.1,4.8,https://www.allrecipes.com/recipe/21205/all-day-apple-butter/
+Slow Cooker Beef Barley Soup,306,19.7,45.6,18,16.6,614.8,https://www.allrecipes.com/recipe/16454/slow-cooker-beef-barley-soup/
+Mushroom Slow Cooker Roast Beef,388,6.2,82.5,28.1,24.4,452.7,https://www.allrecipes.com/recipe/178498/mushroom-slow-cooker-roast-beef/
+Slow Cooker Belgian Chicken Booyah,248,18.6,67.7,9.6,21.9,1918.1,https://www.allrecipes.com/recipe/241813/slow-cooker-belgian-chicken-booyah/
+Slow Cooker Creamy Chicken And Dumplings,385,37.9,37.6,18.3,17.3,1294,https://www.allrecipes.com/recipe/239305/slow-cooker-creamy-chicken-and-dumplings/
+Healthier Slow Cooker Beef Stew I,468,39.1,83.5,21.3,30.7,340.8,https://www.allrecipes.com/recipe/222093/healthier-slow-cooker-beef-stew-i/
+Bacon Wrapped Smokies,163,10.7,25.7,10.5,6.5,458.3,https://www.allrecipes.com/recipe/69919/bacon-wrapped-smokies/
+Slow Cooker Texas Smoked Beef Brisket,342,28.7,69.1,16.1,21.5,3520.5,https://www.allrecipes.com/recipe/232137/slow-cooker-texas-smoked-beef-brisket/
+Meadowwood Tapioca Pudding,190,29.8,89,5.6,5,197.6,https://www.allrecipes.com/recipe/219782/meadowwood-tapioca-pudding/
+Easy Slow Cooker Apple Pork Roast,527,18.8,145.2,29.4,44.6,203.6,https://www.allrecipes.com/recipe/213270/easy-slow-cooker-apple-pork-roast/
+Slow Cooker Texas Pulled Pork,528,45.5,98.4,23.2,31.9,802.7,https://www.allrecipes.com/recipe/92462/slow-cooker-texas-pulled-pork/
+Best Italian Sausage Soup,436,43.5,33.4,17.8,21,1609.2,https://www.allrecipes.com/recipe/25713/best-italian-sausage-soup/
+Slow Cooker Turkey Legs,217,0.2,89.1,6.9,36.3,101.9,https://www.allrecipes.com/recipe/216108/slow-cooker-turkey-legs/
+Moms Italian Beef Barley Soup,512,35.4,107.4,27.8,29.7,884.1,https://www.allrecipes.com/recipe/26444/moms-italian-beef-barley-soup/
+Bread Pudding In The Slow Cooker,397,57.9,150.8,14.3,11.4,455.4,https://www.allrecipes.com/recipe/231469/bread-pudding-in-the-slow-cooker/
+Slow Cooker Chicken Dressing,246,25.8,84.9,9.5,13.7,991.1,https://www.allrecipes.com/recipe/22322/slow-cooker-chicken-dressing/
+Mississippi Pot Roast,280,2.9,78.2,20.1,20,915.4,https://www.allrecipes.com/recipe/260697/mississippi-pot-roast/
+Make Ahead Slow Cooker Beef Stew,467,43.8,68.6,20.6,25.3,1110.2,https://www.allrecipes.com/recipe/215565/make-ahead-slow-cooker-beef-stew/
+Slow Cooker French Onion Pork Chops,205,9.4,55.9,10.6,17.4,618.4,https://www.allrecipes.com/recipe/280021/slow-cooker-french-onion-pork-chops/
+Easy Two Ingredient Pulled Pork,536,65.1,67.3,15.9,30,1216.2,https://www.allrecipes.com/recipe/236095/easy-two-ingredient-pulled-pork/
+Slow Cooker Thai Peanut Pork,209,9.8,36.1,10.8,19.2,787.6,https://www.allrecipes.com/recipe/186965/slow-cooker-thai-peanut-pork/
+Slow Cooker Pork And Sauerkraut With Apples,400,21.8,94.7,18.4,37.2,1103.4,https://www.allrecipes.com/recipe/235927/slow-cooker-pork-and-sauerkraut-with-apples/
+Old Fashioned Onion Soup,255,28.8,30.5,12.8,7.3,660,https://www.allrecipes.com/recipe/13363/old-fashioned-onion-soup/
+Simple Beef Tips And Noodles,518,54.8,106.8,17.1,35,150.8,https://www.allrecipes.com/recipe/220865/simple-beef-tips-and-noodles/
+Texas Deer Chili,291,19.6,107,7.3,36,815.8,https://www.allrecipes.com/recipe/25669/texas-deer-chili/
+Slow Cooker Beef Stew Iv,492,25.7,106.2,27.5,33.5,409.6,https://www.allrecipes.com/recipe/25200/slow-cooker-beef-stew-iv/
+Pork Picnic Pot Roast,552,35.4,116.6,30.2,33.7,341.3,https://www.allrecipes.com/recipe/242108/pork-picnic-pot-roast/
+Kyles Favorite Beef Stew,617,46.6,100.3,34.3,30.7,961.5,https://www.allrecipes.com/recipe/149731/kyles-favorite-beef-stew/
+Slow Cooker Vegan Leek And Potato Soup,251,35.7,,11,3.6,200,https://www.allrecipes.com/recipe/277492/slow-cooker-vegan-leek-and-potato-soup/
+Slow Cooker Buffalo Chicken Sandwiches,578,80.6,54.1,14,31.3,2901.7,https://www.allrecipes.com/recipe/176132/slow-cooker-buffalo-chicken-sandwiches/
+Rachaels Superheated Cajun Boiled Peanuts,360,16.2,,29.6,16.1,6206.6,https://www.allrecipes.com/recipe/170008/rachaels-superheated-cajun-boiled-peanuts/
+Easy Slow Cooker Carne Guisada,366,22.7,77.4,19.8,24,682.3,https://www.allrecipes.com/recipe/54610/easy-slow-cooker-carne-guisada/
+Sweet And Sour Meatballs,152,17.4,37.6,5.6,8.3,22.2,https://www.allrecipes.com/recipe/15551/sweet-and-sour-meatballs/
+Honey Garlic Meatballs,516,44.4,150.8,23.4,31.5,1110,https://www.allrecipes.com/recipe/245596/honey-garlic-meatballs/
+Slow Cooker Creamed Corn,193,13.7,41.7,15,3.4,113.9,https://www.allrecipes.com/recipe/25894/slow-cooker-creamed-corn/
+Slow Cooker Beef Stew Iii,581,23.8,149.4,32.1,47.1,681.6,https://www.allrecipes.com/recipe/16303/slow-cooker-beef-stew-iii/
+Grannylins Barbeque Ribs Made Easy,1062,49.2,336,54.1,88.2,1698.3,https://www.allrecipes.com/recipe/151893/grannylins-barbeque-ribs-made-easy/
+London Broil For The Slow Cooker,220,4.6,72.5,8.1,30.2,663.2,https://www.allrecipes.com/recipe/138918/london-broil-for-the-slow-cooker/
+Chicken Taco Filling,145,6,58.5,2.3,22,694.7,https://www.allrecipes.com/recipe/221256/chicken-taco-filling/
+Slow Cooker Ham And Bean Soup,305,32,29.6,10.2,20.5,1114.3,https://www.allrecipes.com/recipe/228664/slow-cooker-ham-and-bean-soup/
+Healthier Buffalo Chicken Dip,231,10.7,42.9,15.9,11,784.1,https://www.allrecipes.com/recipe/219456/healthier-buffalo-chicken-dip/
+Kellys Slow Cooker Beef Mushroom And Barley Soup,359,31.7,65.3,10.3,34.6,381.1,https://www.allrecipes.com/recipe/220340/kellys-slow-cooker-beef-mushroom-and-barley-soup/
+Slow Cooker Pork Chops Ii,275,4.2,49.4,19.7,20.3,269.8,https://www.allrecipes.com/recipe/87805/slow-cooker-pork-chops-ii/
+Slow Cooker Reuben Dip,298,5.5,76.2,22.9,17.9,636.4,https://www.allrecipes.com/recipe/89707/slow-cooker-reuben-dip/
+Slow Cooker Lamb Chops,209,18.5,43.6,7.7,13,550.5,https://www.allrecipes.com/recipe/262939/slow-cooker-lamb-chops/
+Campbells Slow Cooker Chicken And Dumplings,331,34.3,51.7,11.7,22.1,993.7,https://www.allrecipes.com/recipe/177708/campbells-slow-cooker-chicken-and-dumplings/
+Amazing Ribs,524,33.7,117,29.6,24.5,1034.2,https://www.allrecipes.com/recipe/53546/amazing-ribs/
+Texas Beef Soup,306,9.4,65.7,19,23.4,1124.2,https://www.allrecipes.com/recipe/52804/texas-beef-soup/
+Stephanies Freezer Spaghetti Sauce,66,8.1,,3.7,1.3,483.6,https://www.allrecipes.com/recipe/12054/stephanies-freezer-spaghetti-sauce/
+Slow Cooker Beef Stroganoff I,376,9.5,96.7,27.3,22,711.1,https://www.allrecipes.com/recipe/16352/slow-cooker-beef-stroganoff-i/
+Busy Day Slow Cooker Taco Soup,343,41.8,47.3,10.6,21.7,1403,https://www.allrecipes.com/recipe/242079/busy-day-slow-cooker-taco-soup/
+Authentic Bangladeshi Beef Curry,320,8.8,68.6,23.1,19.5,50.4,https://www.allrecipes.com/recipe/193585/authentic-bangladeshi-beef-curry/
+Slow Cooker Vegetarian Minestrone,138,25.2,2.2,1.7,6.9,940.5,https://www.allrecipes.com/recipe/230298/slow-cooker-vegetarian-minestrone/
+Grandma Bs Bean Soup,324,47.2,18.9,7.2,18.5,464.9,https://www.allrecipes.com/recipe/72253/grandma-bs-bean-soup/
+Fiesta Slow Cooker Shredded Chicken Tacos,71,2.4,30,1.2,11.2,415.4,https://www.allrecipes.com/recipe/242342/fiesta-slow-cooker-shredded-chicken-tacos/
+Sour Cream Pork Chops,257,14.3,53.9,14.4,16.8,487.2,https://www.allrecipes.com/recipe/24037/sour-cream-pork-chops/
+Slow Cooker Mediterranean Stew,122,30.5,,0.5,3.4,156.8,https://www.allrecipes.com/recipe/21302/slow-cooker-mediterranean-stew/
+Slow Cooker Stuffed Peppers,233,18.5,45.6,10.7,15.6,295,https://www.allrecipes.com/recipe/236881/slow-cooker-stuffed-peppers/
+Slow Cooker Mediterranean Lentil Soup,490,58.2,,19.1,22.9,101.1,https://www.allrecipes.com/recipe/260459/slow-cooker-mediterranean-lentil-soup/
+Slow Cooker Butter Chicken,480,17.2,102.6,33.3,30.6,442,https://www.allrecipes.com/recipe/174543/slow-cooker-butter-chicken/
+Slow Cooker Cheese Steaks,652,32.1,190.7,33.9,58.9,1220.5,https://www.allrecipes.com/recipe/217185/slow-cooker-cheese-steaks/
+Chicken Tagine,380,38.5,64.7,15.2,22.3,571,https://www.allrecipes.com/recipe/180014/chicken-tagine/
+Healthier Slow Cooker Chicken Taco Soup,328,42.9,50.3,5.8,28.8,1275,https://www.allrecipes.com/recipe/222109/healthier-slow-cooker-chicken-taco-soup/
+Chicken Delicious,154,4.7,55,5.1,20.5,478.9,https://www.allrecipes.com/recipe/8771/chicken-delicious/
+Easy Apple Cider,172,43.4,,0.1,0.1,31.1,https://www.allrecipes.com/recipe/42022/easy-apple-cider/
+White Chicken Enchilada Slow Cooker Casserole,824,66.4,123.4,44,40,1930.9,https://www.allrecipes.com/recipe/87133/white-chicken-enchilada-slow-cooker-casserole/
+Slow Cooker Pernil Pork,367,5.7,107.7,21,37.6,844.1,https://www.allrecipes.com/recipe/166823/slow-cooker-pernil-pork/
+Slow Cooker Chicken Gumbo With Shrimp,282,32.3,119.1,6.7,22.4,562.2,https://www.allrecipes.com/recipe/238411/slow-cooker-chicken-gumbo-with-shrimp/
+Classic Beef Stroganoff In A Slow Cooker,441,38.9,105.3,16.8,32.6,559.7,https://www.allrecipes.com/recipe/262072/classic-beef-stroganoff-in-a-slow-cooker/
+Chicken Enchilada Slow Cooker Soup,186,22.9,39,3.4,18.4,1074.7,https://www.allrecipes.com/recipe/218057/chicken-enchilada-slow-cooker-soup/
+Slow Cooker Pork Loin Roast With Brown Sugar And Sweet Potatoes,381,33.9,94.9,14.6,27.6,214.3,https://www.allrecipes.com/recipe/275214/slow-cooker-pork-loin-roast-with-brown-sugar-and-sweet-potatoes/
+Sensational Steak Sandwich,908,78.8,109.2,40.6,55.7,2586.4,https://www.allrecipes.com/recipe/87111/sensational-steak-sandwich/
+Slow Cooker Mongolian Beef,450,55.4,47.5,13,28,2391.5,https://www.allrecipes.com/recipe/195083/slow-cooker-mongolian-beef/
+Grape Jelly Meatballs,340,32.4,94.3,14.6,19.1,175.7,https://www.allrecipes.com/recipe/239824/grape-jelly-meatballs/
+Salsa Verde Pork,313,3.6,106.4,14.6,38.5,237.6,https://www.allrecipes.com/recipe/240599/salsa-verde-pork/
+Slow Cooker Bbq Pork Chops,544,30.4,105.6,35.6,23.2,1019.2,https://www.allrecipes.com/recipe/18397/slow-cooker-bbq-pork-chops/
+French Dip Sandwiches,373,29.8,76.1,14.4,29.6,1172.9,https://www.allrecipes.com/recipe/14689/french-dip-sandwiches/
+Slow Cooker Pot Roast With Malbec Red Wine,350,8.5,86.1,21.1,22.7,3076.2,https://www.allrecipes.com/recipe/241263/slow-cooker-pot-roast-with-malbec-red-wine/
+Slow Cooker Chile Verde,265,12.1,64,12.4,22.5,765.2,https://www.allrecipes.com/recipe/81969/slow-cooker-chile-verde/
+Cuban Ropa Vieja,261,9.9,47.6,15.8,20.5,599.2,https://www.allrecipes.com/recipe/79301/cuban-ropa-vieja/
+Awesome Slow Cooker Pot Roast Plus Extras,402,9.9,140.3,13.4,57.1,480,https://www.allrecipes.com/recipe/236872/awesome-slow-cooker-pot-roast-plus-extras/
+Slow Cooker Lentil And Ham Soup,222,26.3,19.7,6.1,15.1,1169.6,https://www.allrecipes.com/recipe/91605/slow-cooker-lentil-and-ham-soup/
+Slow Cooker Mediterranean Lentil Stew,208,36.4,,2.1,12,193.9,https://www.allrecipes.com/recipe/282532/slow-cooker-mediterranean-lentil-stew/
+Slow Cooker Steak Fajitas,598,68.9,51.8,22.8,28.2,1050.1,https://www.allrecipes.com/recipe/273820/slow-cooker-steak-fajitas/
+Easy Slow Cooker French Dip,413,19.6,96,18.1,39.1,661.1,https://www.allrecipes.com/recipe/16239/easy-slow-cooker-french-dip/
+Slow Cooker Chipotle Chili,402,33.7,65,18.3,28.1,1257.1,https://www.allrecipes.com/recipe/237576/slow-cooker-chipotle-chili/
+Slow Cooker Risotto,316,42.3,7.8,11.9,7,524.6,https://www.allrecipes.com/recipe/228033/slow-cooker-risotto/
+Slow Cooker Oxtail Stew,241,18.3,62.4,9.1,20.8,428,https://www.allrecipes.com/recipe/270818/slow-cooker-oxtail-stew/
+Slow Cooker Chicken Tortilla Soup,262,24.7,45.4,10.8,18,893.4,https://www.allrecipes.com/recipe/89539/slow-cooker-chicken-tortilla-soup/
+Slow Cooker Chicken With Stuffing,356,38.1,68.6,8.4,29.6,1465.8,https://www.allrecipes.com/recipe/228109/slow-cooker-chicken-with-stuffing/
+Ham And Beans And More,459,39.9,47.5,22.3,25.5,944.6,https://www.allrecipes.com/recipe/214048/ham-and-beans-and-more/
+Sweet Slow Cooker Ham,500,40.1,87.7,23.8,30.7,1689,https://www.allrecipes.com/recipe/222876/sweet-slow-cooker-ham/
+Slow Cooker Buffalo Chicken Dip,120,3,34.9,7.8,9.2,370.6,https://www.allrecipes.com/recipe/270034/slow-cooker-buffalo-chicken-dip/
+Slow Cooker Moroccan Chicken,284,37.9,39,5.5,20.7,385,https://www.allrecipes.com/recipe/215218/slow-cooker-moroccan-chicken/
+Dog Food Dip,88,1.5,20.2,6.6,5.3,166.4,https://www.allrecipes.com/recipe/24642/dog-food-dip/
+Healthier Slow Cooker Gumbo,134,16.1,59.3,3.5,12.1,273,https://www.allrecipes.com/recipe/278208/healthier-slow-cooker-gumbo/
+Slow Cooker Green Beans Ham And Potatoes,200,20.6,28.6,9,10.2,133.1,https://www.allrecipes.com/recipe/21417/slow-cooker-green-beans-ham-and-potatoes/
+Slow Cooker Roast Beef,555,4.4,161,40.8,40.4,1368.6,https://www.allrecipes.com/recipe/22228/slow-cooker-roast-beef/
+Slow Cooker Chicken And Noodles,311,42,92.7,3.5,26.4,81.4,https://www.allrecipes.com/recipe/21788/slow-cooker-chicken-and-noodles/
+Slow Cooker Pulled Pork With Orange Juice,381,4,111.8,26.8,29.4,110.9,https://www.allrecipes.com/recipe/234697/slow-cooker-pulled-pork-with-orange-juice/
+Slow Cooker Southern Lima Beans And Ham,133,17.8,9.4,3.4,8.4,345.8,https://www.allrecipes.com/recipe/223495/slow-cooker-southern-lima-beans-and-ham/
+Cheesy Italian Tortellini,468,35.2,82,24.1,26.9,1185.6,https://www.allrecipes.com/recipe/34942/cheesy-italian-tortellini/
+Amazing Slow Cooker Chocolate Cake,313,51.4,32.6,11.3,4.7,434.2,https://www.allrecipes.com/recipe/219907/amazing-slow-cooker-chocolate-cake/
+Slow Cooker Baby Back Ribs,501,32.4,117,29.6,24.3,1067.4,https://www.allrecipes.com/recipe/228498/slow-cooker-baby-back-ribs/
+Super Easy Slow Cooker Chicken Enchilada Meat,93,8.8,23.4,1.8,10.4,359.1,https://www.allrecipes.com/recipe/228367/super-easy-slow-cooker-chicken-enchilada-meat/
+Barbacoa Meat,316,1.3,80,26.2,18.2,77.3,https://www.allrecipes.com/recipe/237711/barbacoa-meat/
+Homemade Chili,274,19.6,45.7,13.3,18.8,959,https://www.allrecipes.com/recipe/255259/homemade-chili/
+Slow Cooker Zuppa Toscana,447,42.3,78.2,24.8,15.8,1275.4,https://www.allrecipes.com/recipe/261337/slow-cooker-zuppa-toscana/
+Chicken And Two Bean Chili,219,37.6,14.7,3.8,12.2,813.1,https://www.allrecipes.com/recipe/154321/chicken-and-two-bean-chili/
+Slow Cooker Osso Buco,522,14.6,256.1,21,64.7,488.9,https://www.allrecipes.com/recipe/215319/slow-cooker-osso-buco/
+Slow Cooker Broccoli Beef,814,121.4,73.6,16,46.4,2166.9,https://www.allrecipes.com/recipe/238393/slow-cooker-broccoli-beef/
+Easiest Pot Roast Ever,526,42.4,103.2,25.3,31.7,547.4,https://www.allrecipes.com/recipe/14670/easiest-pot-roast-ever/
+Slow Cooker Tapioca Pudding,191,30.3,58.7,5.2,6.5,66.3,https://www.allrecipes.com/recipe/130923/slow-cooker-tapioca-pudding/
+Slow Cooker Enchiladas,712,36,141.9,45.6,40.9,2089.4,https://www.allrecipes.com/recipe/84482/slow-cooker-enchiladas/
+Whole Chicken Slow Cooker Recipe,230,1.2,102.5,12.8,25.9,1239,https://www.allrecipes.com/recipe/235713/whole-chicken-slow-cooker-recipe/
+Slow Cooker Lamb Stew,438,45.6,64.3,16.5,27,1053.1,https://www.allrecipes.com/recipe/269632/slow-cooker-lamb-stew/
+Easiest Slow Cooker French Dip,756,70.5,110.3,30,46.8,1462.5,https://www.allrecipes.com/recipe/99904/easiest-slow-cooker-french-dip/
+Easy Slow Cooker Meatballs,179,18.2,38.5,7.2,10.6,502.9,https://www.allrecipes.com/recipe/57981/easy-slow-cooker-meatballs/
+Slow Cooker Chicken And Dumplings,385,37,44.8,18,18.1,1244.6,https://www.allrecipes.com/recipe/8941/slow-cooker-chicken-and-dumplings/
+Mexican Style Shredded Pork,520,43,107.7,19,41.1,802.1,https://www.allrecipes.com/recipe/72532/mexican-style-shredded-pork/
+New Mexico Green Chile Stew,295,19.5,56.5,14.4,22.3,66.2,https://www.allrecipes.com/recipe/184197/new-mexico-green-chile-stew/
+Slow Cooker Cilantro Lime Chicken,272,9.3,117.2,4.7,45.3,975.9,https://www.allrecipes.com/recipe/218863/slow-cooker-cilantro-lime-chicken/
+Easy Ground Turkey Stew,388,50.7,83.9,9.1,28,910.8,https://www.allrecipes.com/recipe/273158/easy-ground-turkey-stew/
+Slow Cooker Pork And Sauerkraut,358,35.7,79.6,14.5,22.3,1057.4,https://www.allrecipes.com/recipe/228630/slow-cooker-pork-and-sauerkraut/
+Awesome Pulled Pork Bbq,548,44.2,131.5,23.5,41.4,1513.8,https://www.allrecipes.com/recipe/235166/awesome-pulled-pork-bbq/
+Taiwanese Spicy Beef Noodle Soup,482,41.5,62.6,22,27,2366.1,https://www.allrecipes.com/recipe/257581/taiwanese-spicy-beef-noodle-soup/
+Hamburger Soup Ii,492,41,85.1,24.7,26.4,529.6,https://www.allrecipes.com/recipe/12955/hamburger-soup-ii/
+Easy Slow Cooker Chicken,487,52.9,82.9,14.1,34.6,1648,https://www.allrecipes.com/recipe/8631/easy-slow-cooker-chicken/
+Slow Cooker Beer Pulled Pork,209,8.7,53.3,11.8,14.5,568.3,https://www.allrecipes.com/recipe/235950/slow-cooker-beer-pulled-pork/
+Amazing Pork Tenderloin In The Slow Cooker,180,5.8,65.5,3.7,24.5,917.5,https://www.allrecipes.com/recipe/75861/amazing-pork-tenderloin-in-the-slow-cooker/
+Slow Cooker Buffalo Chicken Wing Soup,634,36.5,137.4,42.4,27.9,1909,https://www.allrecipes.com/recipe/228121/slow-cooker-buffalo-chicken-wing-soup/
+Easy Slow Cooker Bbq,269,11.5,67.1,16,17.3,401.5,https://www.allrecipes.com/recipe/235361/easy-slow-cooker-bbq/
+Slow Cooker Short Ribs,618,6,116.6,52.2,29.1,289.2,https://www.allrecipes.com/recipe/237166/slow-cooker-short-ribs/
+Slow Cooker Chicken Massaman Curry,841,100.7,70.2,34,33.9,700.9,https://www.allrecipes.com/recipe/272374/slow-cooker-chicken-massaman-curry/
+Guinness Beer Cheese Dip,224,2.5,53.3,17.8,12.8,915.6,https://www.allrecipes.com/recipe/220556/guinness-beer-cheese-dip/
+Slow Cooker Barbecue Ribs,497,33,117,29.6,26,1244.5,https://www.allrecipes.com/recipe/22230/slow-cooker-barbecue-ribs/
+Slow Cooker Thai Curried Beef,829,85.6,98.6,39.3,40.3,298.5,https://www.allrecipes.com/recipe/255865/slow-cooker-thai-curried-beef/
+Slow Cooker Potluck Spareribs,524,33.5,120,30.2,29.9,1025.6,https://www.allrecipes.com/recipe/231768/slow-cooker-potluck-spareribs/
+Slow Cooker Ground Beef Stew,384,46.7,49.6,13,21.5,1199.5,https://www.allrecipes.com/recipe/229248/slow-cooker-ground-beef-stew/
+Slow Cooker Bulgogi,365,16.1,90.7,19.3,30.7,1868.4,https://www.allrecipes.com/recipe/246594/slow-cooker-bulgogi/
+Sweet Potato Chili,250,32.5,38.3,7.4,16,620.9,https://www.allrecipes.com/recipe/229081/sweet-potato-chili/
+Zesty Pulled Pork Sandwiches,505,78.6,52.9,9,25.7,2089.3,https://www.allrecipes.com/recipe/229821/zesty-pulled-pork-sandwiches/
+Slow Cooker Alabama Pulled Bbq Chicken,360,4,96.8,25.3,28.3,575.1,https://www.allrecipes.com/recipe/242155/slow-cooker-alabama-pulled-bbq-chicken/
+Spicy Slow Cooked Chili,308,22.3,62.3,13.8,23.4,1023.7,https://www.allrecipes.com/recipe/223390/spicy-slow-cooked-chili/
+Big Game Dip,211,6.1,48.5,15.5,12.1,1068,https://www.allrecipes.com/recipe/230992/big-game-dip/
+Grandmas Slow Cooker Swiss Steak,368,16.2,78.8,19,30.2,997.3,https://www.allrecipes.com/recipe/230773/grandmas-slow-cooker-swiss-steak/
+Sunday Brunswick Stew,292,48.3,34.9,3.9,18.4,1464.4,https://www.allrecipes.com/recipe/228639/sunday-brunswick-stew/
+Darias Slow Cooker Beef Stroganoff,403,11.5,93.8,26.8,27.2,672.2,https://www.allrecipes.com/recipe/16196/darias-slow-cooker-beef-stroganoff/
+Christinas Slow Cooker Chili,306,24.4,52.2,14.4,20.7,487.1,https://www.allrecipes.com/recipe/239016/christinas-slow-cooker-chili/
+Barbacoa Style Shredded Beef,303,2.6,77.5,22.9,20.3,150.3,https://www.allrecipes.com/recipe/246835/barbacoa-style-shredded-beef/
+Easy And Quick Swiss Steak,349,48.6,27.2,8.7,21.6,304.6,https://www.allrecipes.com/recipe/74352/easy-and-quick-swiss-steak/
+Slow Cooker Beef Barbacoa,292,9.1,77.3,18.8,22,350.2,https://www.allrecipes.com/recipe/217412/slow-cooker-beef-barbacoa/
+Hobo Beef And Vegetable Soup,362,45.6,49.6,10.8,23.7,1182,https://www.allrecipes.com/recipe/213762/hobo-beef-and-vegetable-soup/
+Saucy Slow Cooker Pork Chops,321,20.9,59.1,15.2,24.8,994.6,https://www.allrecipes.com/recipe/229770/saucy-slow-cooker-pork-chops/
+Outrageous Warm Chicken Nacho Dip,232,8.7,60.2,13.6,18.6,790.4,https://www.allrecipes.com/recipe/157940/outrageous-warm-chicken-nacho-dip/
+Spicy Slow Cooker Black Bean Soup,281,49.7,5,2,17.7,1012.3,https://www.allrecipes.com/recipe/13006/spicy-slow-cooker-black-bean-soup/
+Slow Cooker Zucchini Soup,389,25.8,49,23.6,21.8,2218.3,https://www.allrecipes.com/recipe/232096/slow-cooker-zucchini-soup/
+Slow Cooker Chicken Pepperoni,390,31.2,87.1,12.7,35.2,1192,https://www.allrecipes.com/recipe/247082/slow-cooker-chicken-pepperoni/
+Easy Slow Cooker Chicken And Dumplings,270,27.3,43.9,10.6,16.1,755.3,https://www.allrecipes.com/recipe/240587/easy-slow-cooker-chicken-and-dumplings/
+Famous Meatballs,611,46.4,188.5,29.2,38.9,587.1,https://www.allrecipes.com/recipe/221180/famous-meatballs/
+Slow Cooker Borscht,345,33.2,50.6,17.5,16.2,897.3,https://www.allrecipes.com/recipe/109254/slow-cooker-borscht/
+Slow Cooker Honey Garlic Pork Loin Roast,337,16.1,81.6,17.4,28.7,216.2,https://www.allrecipes.com/recipe/275211/slow-cooker-honey-garlic-pork-loin-roast/
+Kates Easy German Sauerbraten,460,17.9,103.3,27,27.8,1875.3,https://www.allrecipes.com/recipe/221360/kates-easy-german-sauerbraten/
+Slow Cooker Bone Broth,27,6,,0.1,0.7,77.3,https://www.allrecipes.com/recipe/241065/slow-cooker-bone-broth/
+Slow Cooker Cheesy Hash Brown Potatoes,336,21.1,58.3,29.3,9,655.4,https://www.allrecipes.com/recipe/268693/slow-cooker-cheesy-hash-brown-potatoes/
+Slow Cooker Adobo Chicken With Bok Choy,458,20.8,128.3,23.1,40.4,1394.5,https://www.allrecipes.com/recipe/223588/slow-cooker-adobo-chicken-with-bok-choy/
+Slow Cooker Barbeque,344,23.3,73.6,17.9,20.5,895.2,https://www.allrecipes.com/recipe/14608/slow-cooker-barbeque/
+Slow Cooker Pinto Beans,366,38.2,36.4,13.5,23.5,1348.4,https://www.allrecipes.com/recipe/220822/slow-cooker-pinto-beans/
+Grandmas Hungarian Stuffed Cabbage Slow Cooker Variation,403,30.6,91.2,21.7,22.4,884,https://www.allrecipes.com/recipe/256610/grandmas-hungarian-stuffed-cabbage-slow-cooker-variation/
+Beef Barley Vegetable Soup,321,22.4,61.8,17.3,20,605.5,https://www.allrecipes.com/recipe/13023/beef-barley-vegetable-soup/
+Slow Cooker Dump And Go Cheesy Chicken,321,11.8,112.8,12.4,38.9,1034.4,https://www.allrecipes.com/recipe/17024/slow-cooker-dump-and-go-cheesy-chicken/
+Slow Cooker Roasted Leg Of Lamb,285,10.5,100.3,14,25.6,464.5,https://www.allrecipes.com/recipe/241514/slow-cooker-roasted-leg-of-lamb/
+Slow Cooker Ham And Beans,318,49.8,15.9,5.9,17.8,492.5,https://www.allrecipes.com/recipe/157825/slow-cooker-ham-and-beans/
+Slow Cooker London Broil,198,9.8,35.7,11.1,14.9,801.1,https://www.allrecipes.com/recipe/14684/slow-cooker-london-broil/
+Charleys Slow Cooker Mexican Style Meat,261,3.3,68.7,19.1,18.4,314.7,https://www.allrecipes.com/recipe/16995/charleys-slow-cooker-mexican-style-meat/
+Crock Pot Chicken Chili,386,62.9,36.9,2.9,28.8,1338.2,https://www.allrecipes.com/recipe/230792/crock-pot-chicken-chili/
+No Time To Cook Chicken,304,12.1,88,16.2,26.6,1142.2,https://www.allrecipes.com/recipe/17607/no-time-to-cook-chicken/
+Slow Cooker Hamburgers,491,29.1,151.8,24.3,36.4,678.9,https://www.allrecipes.com/recipe/281301/slow-cooker-hamburgers/
+Baked Slow Cooker Chicken,408,0.2,141.9,28.5,35.2,132.5,https://www.allrecipes.com/recipe/8647/baked-slow-cooker-chicken/
+Crock Pot Cheesy Mushroom Chicken,267,12.6,70.8,10.4,28.2,1091.3,https://www.allrecipes.com/recipe/126398/crock-pot-cheesy-mushroom-chicken/
+Healthier Amazing Pork Tenderloin In The Slow Cooker,179,6.4,65.5,3.2,24.7,506.2,https://www.allrecipes.com/recipe/219454/healthier-amazing-pork-tenderloin-in-the-slow-cooker/
+Cauliflower Potato Soup,416,45.8,55.6,20.3,15.9,1087.3,https://www.allrecipes.com/recipe/234991/cauliflower-potato-soup/
+Slow Cooker Cream Of Broccoli Soup,289,21.2,39.2,18.1,12.3,1455.9,https://www.allrecipes.com/recipe/220268/slow-cooker-cream-of-broccoli-soup/
+Grandpas Classic Coney Sauce,186,12.8,45.9,9.2,13.5,586.1,https://www.allrecipes.com/recipe/100182/grandpas-classic-coney-sauce/
+Cabbage Beef Soup,211,20.3,27.6,8.7,14.1,1154.2,https://www.allrecipes.com/recipe/76042/cabbage-beef-soup/
+Moms Chicken And Dumplings Slow Cooker Version,649,62.9,116.7,22.2,47.8,2692,https://www.allrecipes.com/recipe/238893/moms-chicken-and-dumplings-slow-cooker-version/
+Cuban Inspired Slow Cooker Chicken,421,60.3,46.9,3.2,27.8,2142.3,https://www.allrecipes.com/recipe/278990/cuban-inspired-slow-cooker-chicken/
+Slow Cooker Bolognese,245,17.9,43.9,13,16.3,546.5,https://www.allrecipes.com/recipe/214551/slow-cooker-bolognese/
+Meatiest Vegetarian Chili From Your Slow Cooker,455,58.2,,18.2,21.2,1645.5,https://www.allrecipes.com/recipe/132394/meatiest-vegetarian-chili-from-your-slow-cooker/
+Slow Cooker Lasagna,446,35.7,71.6,20.3,31.2,1420.2,https://www.allrecipes.com/recipe/11959/slow-cooker-lasagna/
+Kielbasa For The Big Game,262,23.3,37.5,15.6,6.9,865.5,https://www.allrecipes.com/recipe/216704/kielbasa-for-the-big-game/
+Campbells Slow Cooker Savory Pot Roast,683,42,147.1,33.3,50,1356.9,https://www.allrecipes.com/recipe/177849/campbells-slow-cooker-savory-pot-roast/
+Slow Cooked German Short Ribs,589,15.4,93.2,46.4,22.7,470.8,https://www.allrecipes.com/recipe/23564/slow-cooked-german-short-ribs/
+Healthier Slow Cooker Chicken Tortilla Soup,208,23.7,42.9,6.8,15.3,438.2,https://www.allrecipes.com/recipe/222096/healthier-slow-cooker-chicken-tortilla-soup/
+Refried Beans Without The Refry,139,25.4,,0.5,8.5,784.7,https://www.allrecipes.com/recipe/70312/refried-beans-without-the-refry/
+Ham Bone Soup,266,53.3,0.9,1,11.4,2136,https://www.allrecipes.com/recipe/29798/ham-bone-soup/
+Slow Cooker Barbequed Beef Ribs,1035,50.2,165.6,76.1,39,2965.4,https://www.allrecipes.com/recipe/228796/slow-cooker-barbequed-beef-ribs/
+Breakfast Casserole In A Slow Cooker,641,21.3,375.6,54,35.7,989.2,https://www.allrecipes.com/recipe/241106/breakfast-casserole-in-a-slow-cooker/
+Cheesy Brat Stew For The Slow Cooker,604,35.1,102.4,40.4,24.8,1487,https://www.allrecipes.com/recipe/56391/cheesy-brat-stew-for-the-slow-cooker/
+Slow Cooker Chai,90,15.6,8.3,2.3,2.2,42,https://www.allrecipes.com/recipe/58312/slow-cooker-chai/
+Slow Cooker Spicy Black Eyed Peas,199,30.2,9.6,2.9,14.1,341.4,https://www.allrecipes.com/recipe/142892/slow-cooker-spicy-black-eyed-peas/
+Cozy Mulled Wine,256,35.9,,0.1,0.3,10.3,https://www.allrecipes.com/recipe/235319/cozy-mulled-wine/
+Slow Cooker Green Beans And Potatoes,102,18.6,2.3,2.3,3,49.4,https://www.allrecipes.com/recipe/275315/slow-cooker-green-beans-and-potatoes/
+Chef Johns Apple Butter,82,21.8,,,0.2,74.5,https://www.allrecipes.com/recipe/268029/chef-johns-apple-butter/
+Amazing Buffalo Dip,246,2.1,54.4,21.4,11.5,664.9,https://www.allrecipes.com/recipe/236200/amazing-buffalo-dip/
+Cabbage Rolls Ii,246,18.3,83.5,10.8,19,748,https://www.allrecipes.com/recipe/20045/cabbage-rolls-ii/
+Melt In Your Mouth Meat Loaf,328,18.4,135.6,16.9,24.7,841.1,https://www.allrecipes.com/recipe/223381/melt-in-your-mouth-meat-loaf/
+Frijoles A La Charra,353,39.8,19.3,13.8,16,741,https://www.allrecipes.com/recipe/76646/frijoles-a-la-charra/
+Spiced Slow Cooker Applesauce,151,39.4,,0.2,0.4,7.7,https://www.allrecipes.com/recipe/149218/spiced-slow-cooker-applesauce/
+Spicy Slow Cooked Beanless Chili,340,13.3,94.6,19.3,28.2,1402,https://www.allrecipes.com/recipe/236999/spicy-slow-cooked-beanless-chili/
+Slow Cooker Game Day Chili,438,32.4,92.8,20.6,33.7,2011,https://www.allrecipes.com/recipe/240980/slow-cooker-game-day-chili/
+Creamy Slow Cooker Steel Cut Oats,325,52.6,22.4,10.2,7.4,73.2,https://www.allrecipes.com/recipe/274531/creamy-slow-cooker-steel-cut-oats/
+Slow Cooker Caramelized Onions,71,10.6,7.6,3,1.3,170.3,https://www.allrecipes.com/recipe/246511/slow-cooker-caramelized-onions/
+Homestyle Kalua Pork With Cabbage In A Slow Cooker,502,4.8,129.8,40.6,30.2,3899.2,https://www.allrecipes.com/recipe/222403/homestyle-kalua-pork-with-cabbage-in-a-slow-cooker/
+Slow Cooker Barbecue Chicken Breast,597,114.1,64.6,3.6,24.1,3465.7,https://www.allrecipes.com/recipe/276804/slow-cooker-barbecue-chicken-breast/
+Garlic Top Sirloin Pot Roast,378,26.1,90.8,16.1,31.5,823.5,https://www.allrecipes.com/recipe/22681/garlic-top-sirloin-pot-roast/
+Grandmas Slow Cooker Vegetarian Chili,260,52.6,0.8,2,12.4,965.9,https://www.allrecipes.com/recipe/14021/grandmas-slow-cooker-vegetarian-chili/
+Slow Cooker Cranberry Chicken,740,70.5,60.8,41,23.4,1810.3,https://www.allrecipes.com/recipe/216715/slow-cooker-cranberry-chicken/
+Slow Cooker Swiss Steak,246,19.2,38.6,10.6,16.8,314.9,https://www.allrecipes.com/recipe/49591/slow-cooker-swiss-steak/
+Chicken Cacciatore In A Slow Cooker,364,42,68.5,8.5,30.8,1200,https://www.allrecipes.com/recipe/246305/chicken-cacciatore-in-a-slow-cooker/
+Zesty Slow Cooker Chicken Barbecue,300,32.4,60.8,8.1,23,1058.4,https://www.allrecipes.com/recipe/65896/zesty-slow-cooker-chicken-barbecue/
+Roast Beef And Gravy,336,8.9,77.5,22.7,22.3,1071.1,https://www.allrecipes.com/recipe/222637/roast-beef-and-gravy/
+Slow Cooker Pheasant With Mushrooms And Olives,642,16.5,189.3,30.7,63.3,413.5,https://www.allrecipes.com/recipe/165163/slow-cooker-pheasant-with-mushrooms-and-olives/
+Ham Bone And Vegetable Soup,87,18.8,0.4,0.4,3,1038.8,https://www.allrecipes.com/recipe/235951/ham-bone-and-vegetable-soup/
+Slow Cooker Mojo Pork,314,3,64.9,27.1,14.9,1535.9,https://www.allrecipes.com/recipe/281144/slow-cooker-mojo-pork/
+Chorizo Queso Dip,178,2.4,42.2,15.2,8,507.5,https://www.allrecipes.com/recipe/221371/chorizo-queso-dip/
+Slow Cooker Chicken Stroganoff,456,9.5,136.1,31,33.4,1602.8,https://www.allrecipes.com/recipe/17227/slow-cooker-chicken-stroganoff/
+Slow Cooker Ham,360,18,74.2,20.1,25.8,1425.1,https://www.allrecipes.com/recipe/80525/slow-cooker-ham/
+Slow Cooker Chicken Noodle Soup,207,17.1,76.5,3.4,25.6,1055.4,https://www.allrecipes.com/recipe/275973/slow-cooker-chicken-noodle-soup/
+Slow Cooker Cactus Chili,400,48.7,55.1,12.4,26.6,1346.8,https://www.allrecipes.com/recipe/255866/slow-cooker-cactus-chili/
+Franks Favorite Slow Cooker Thai Chicken,562,13.7,136.8,35.9,47.6,859.7,https://www.allrecipes.com/recipe/213748/franks-favorite-slow-cooker-thai-chicken/
+Slow Cooker Green Bean Casserole,272,22.9,12.1,16.7,5.9,836.9,https://www.allrecipes.com/recipe/229809/slow-cooker-green-bean-casserole/
+Slow Cooker 3 Ingredient French Dips,501,79.8,33.8,5.9,31.5,2273.1,https://www.allrecipes.com/recipe/235420/slow-cooker-3-ingredient-french-dips/
+Slow Cooker Spicy Chicken,152,7.1,60.8,2.8,24.4,392.1,https://www.allrecipes.com/recipe/214731/slow-cooker-spicy-chicken/
+Slow Cooker Posole,241,25.7,39.8,7.7,16.8,670.5,https://www.allrecipes.com/recipe/149938/slow-cooker-posole/
+Slow Cooker Moscow Chicken,446,15.4,87.7,32.3,23.2,730.6,https://www.allrecipes.com/recipe/190015/slow-cooker-moscow-chicken/
+Cocktail Wieners,389,27.3,59.2,27.1,11.8,1158.8,https://www.allrecipes.com/recipe/240515/cocktail-wieners/
+Quick And Easy Clam Chowder,425,17.6,134.3,32.5,16.1,739.6,https://www.allrecipes.com/recipe/13389/quick-and-easy-clam-chowder/
+Slow Cooker Turkey Meatballs In Tomato Sauce,415,41.1,86.5,14.1,29.8,1281.2,https://www.allrecipes.com/recipe/276451/slow-cooker-turkey-meatballs-in-tomato-sauce/
+Take The Night Off Slow Cooker Pineapple Chicken,377,20.2,127.7,11.9,45.6,223.9,https://www.allrecipes.com/recipe/232409/take-the-night-off-slow-cooker-pineapple-chicken/
+Best Of All Slow Cooker Beef Stew,250,21.5,47.9,8.2,19.3,636.8,https://www.allrecipes.com/recipe/238891/best-of-all-slow-cooker-beef-stew/
+Slow Cooker Pork Chops,165,4.8,59.4,5.2,24.1,803.9,https://www.allrecipes.com/recipe/14723/slow-cooker-pork-chops/
+Bourbon Mango Pulled Pork,319,34.5,68.4,8,23.7,995.5,https://www.allrecipes.com/recipe/163001/bourbon-mango-pulled-pork/
+Classic Slow Cooker Corn Chowder,376,47.1,33.9,18.7,14.9,1735.8,https://www.allrecipes.com/recipe/221235/classic-slow-cooker-corn-chowder/
+Easy Slow Cooker Swedish Meatballs,429,17.1,126.7,28.2,25.5,1071.5,https://www.allrecipes.com/recipe/276506/easy-slow-cooker-swedish-meatballs/
+Slow Cooker Loaded Potato Soup,647,50.3,137.2,42.2,19.2,1087.7,https://www.allrecipes.com/recipe/277943/slow-cooker-loaded-potato-soup/
+Savory Slow Cooker Beef Tips,338,18.4,79.8,14.7,31.8,1150.4,https://www.allrecipes.com/recipe/223376/savory-slow-cooker-beef-tips/
+Slow Cooker Corned Beef And Cabbage,473,49.5,99.5,19.6,23.6,1280.6,https://www.allrecipes.com/recipe/84270/slow-cooker-corned-beef-and-cabbage/
+Kevins Sausage Dip,153,1.2,29.6,14.7,4.1,284.7,https://www.allrecipes.com/recipe/16865/kevins-sausage-dip/
+Three Packet Slow Cooker Roast,610,6.1,163.7,46,39.1,1179.7,https://www.allrecipes.com/recipe/214413/three-packet-slow-cooker-roast/
+Easy Slow Cooker Creamy Chicken Chili,419,47.1,70.3,15.6,25.9,1322.5,https://www.allrecipes.com/recipe/273277/easy-slow-cooker-creamy-chicken-chili/
+Slow Cooker Venison Chili For The Big Game,338,16.5,87,18.9,25.7,1066.2,https://www.allrecipes.com/recipe/129482/slow-cooker-venison-chili-for-the-big-game/
+Slow Cooker Creamy Potato Soup,553,74.2,59.2,19.3,22,1151.3,https://www.allrecipes.com/recipe/22861/slow-cooker-creamy-potato-soup/
+Slow Cooker Mediterranean Roast Turkey Breast,333,8.9,163.8,4.7,60.6,464.8,https://www.allrecipes.com/recipe/215309/slow-cooker-mediterranean-roast-turkey-breast/
+Cocktail Meatballs,193,15.2,52.7,10.2,9.8,84.9,https://www.allrecipes.com/recipe/15206/cocktail-meatballs/
+Jackfruit Pulled Pork,207,31.5,,7.6,0.1,1040.3,https://www.allrecipes.com/recipe/256663/jackfruit-pulled-pork/
+Easy Slow Cooker Salsa Chicken,138,9.8,48.5,2.5,20,1037.8,https://www.allrecipes.com/recipe/272331/easy-slow-cooker-salsa-chicken/
+Slow Cooker Chicken Marrakesh,290,36,65.9,2,30.6,625,https://www.allrecipes.com/recipe/218769/slow-cooker-chicken-marrakesh/
+Slow Cooker Bbq Chicken Thighs,279,26,129.4,8.8,23.7,777.3,https://www.allrecipes.com/recipe/266405/slow-cooker-bbq-chicken-thighs/
+Spicy Hot Chicken Legs,685,5,158.8,55.6,41.4,1024.8,https://www.allrecipes.com/recipe/74705/spicy-hot-chicken-legs/
+Slow Cooker Carnitas,223,0.7,73.3,13.8,22.2,474.3,https://www.allrecipes.com/recipe/139603/slow-cooker-carnitas/
+Butter Beef,437,2.2,124.4,34.6,28,457.1,https://www.allrecipes.com/recipe/73910/butter-beef/
+Slow Cooker Chicken Creole,189,13.8,68.4,1.9,29.6,430.5,https://www.allrecipes.com/recipe/25184/slow-cooker-chicken-creole/
+Chicken Broth In A Slow Cooker,247,5.8,61.5,14.8,21.7,99.2,https://www.allrecipes.com/recipe/13072/chicken-broth-in-a-slow-cooker/
+Slow Cooker Pork Rib Tips,453,54.7,59.9,19.1,14.9,2060,https://www.allrecipes.com/recipe/274865/slow-cooker-pork-rib-tips/
+Creamy Homemade Chicken Stew,562,65.2,106.5,14.3,43.5,834.5,https://www.allrecipes.com/recipe/25681/creamy-homemade-chicken-stew/
+Easy Pork Chops For The Slow Cooker,237,9.8,62.7,10.1,25,907,https://www.allrecipes.com/recipe/237411/easy-pork-chops-for-the-slow-cooker/
+Slow Cooker Bread,131,22.8,,2.3,4.5,350.9,https://www.allrecipes.com/recipe/279631/slow-cooker-bread/
+Slow Cooker Ground Beef Barbecue,188,14.5,44.6,8.5,13.9,709.8,https://www.allrecipes.com/recipe/217123/slow-cooker-ground-beef-barbecue/
+Slow Cooker Split Pea Sausage Soup,412,50.8,37.3,13.1,23.9,1492.4,https://www.allrecipes.com/recipe/16810/slow-cooker-split-pea-sausage-soup/
+Slow Cooker Beef Pot Roast,778,7.6,198.5,57.3,54.6,602.5,https://www.allrecipes.com/recipe/220125/slow-cooker-beef-pot-roast/
+Slow Cooker Asian Short Ribs,670,13.7,116.2,55.1,28.4,1332.9,https://www.allrecipes.com/recipe/269949/slow-cooker-asian-short-ribs/
+Party Kielbasa,331,39.2,40,16.6,8,903.7,https://www.allrecipes.com/recipe/17605/party-kielbasa/
+Nikkis Creamy Crock Pot Potato Soup,429,42.5,61.4,23.5,13.7,1365.6,https://www.allrecipes.com/recipe/132037/nikkis-creamy-crock-pot-potato-soup/
+Authentic No Shortcuts Louisiana Red Beans And Rice,556,61.5,49.9,22.3,27.2,615.1,https://www.allrecipes.com/recipe/148759/authentic-no-shortcuts-louisiana-red-beans-and-rice/
+Slow Cooker Easy Baked Potato Soup,336,26.6,55.9,17.9,18.4,1720.2,https://www.allrecipes.com/recipe/220910/slow-cooker-easy-baked-potato-soup/
+Homemade Ketchup,16,3.9,,,0.5,139.1,https://www.allrecipes.com/recipe/232397/homemade-ketchup/
+Tangy Slow Cooker Pork Roast,210,9.4,66.4,7.7,24.6,482.8,https://www.allrecipes.com/recipe/25151/tangy-slow-cooker-pork-roast/
+Its Chili By George,305,25.5,54.9,13.7,22.3,1266.6,https://www.allrecipes.com/recipe/14985/its-chili-by-george/
+Stout Slow Cooker Corned Beef And Veggies,289,39.1,49.7,9.9,12.3,638.6,https://www.allrecipes.com/recipe/220555/stout-slow-cooker-corned-beef-and-veggies/
+Slow Cooker Eye Of Round Roast With Vegetables,415,31.9,87.7,7.1,50.4,599.1,https://www.allrecipes.com/recipe/235327/slow-cooker-eye-of-round-roast-with-vegetables/
+Slow Cooker Taco Soup With Ranch Dressing Mix,299,32.2,34.4,13,15.5,1714.5,https://www.allrecipes.com/recipe/164555/slow-cooker-taco-soup-with-ranch-dressing-mix/
+Cousin Davids Slow Cooker Brisket,606,9.4,138.2,46.6,35.6,923.2,https://www.allrecipes.com/recipe/70096/cousin-davids-slow-cooker-brisket/
+Slow Cooker Sweet And Sour Pot Roast,530,59.9,105.3,16.2,36.9,993.9,https://www.allrecipes.com/recipe/236776/slow-cooker-sweet-and-sour-pot-roast/
+Simple Slow Cooked Korean Beef Soft Tacos,456,40.3,77.5,22.4,23.9,696.9,https://www.allrecipes.com/recipe/237005/simple-slow-cooked-korean-beef-soft-tacos/
+Easy And Delicious Slow Cooker Cassoulet,522,52.9,68.4,18.9,35.5,641.2,https://www.allrecipes.com/recipe/223505/easy-and-delicious-slow-cooker-cassoulet/
+Rich Slow Cooker Hot Chocolate,484,50.4,73.9,29.6,10.1,127.1,https://www.allrecipes.com/recipe/256112/rich-slow-cooker-hot-chocolate/
+Slow Cooker Turkey Breast,273,1.5,164,1.5,59.5,308.9,https://www.allrecipes.com/recipe/92528/slow-cooker-turkey-breast/
+Chicken And Corn Chili,188,22.6,40.6,2.3,20.4,1012.4,https://www.allrecipes.com/recipe/12906/chicken-and-corn-chili/
+Slow Cooker Bbq Chicken,589,90,58.5,9.5,34.2,1233.6,https://www.allrecipes.com/recipe/213668/slow-cooker-bbq-chicken/
+Slow Cooker Mediterranean Chicken And Vegetables,465,57.3,70.3,13,29.8,733.9,https://www.allrecipes.com/recipe/274464/slow-cooker-mediterranean-chicken-and-vegetables/
+Savory Pork Stew,526,52.9,70.9,22.5,30,706.6,https://www.allrecipes.com/recipe/89614/savory-pork-stew/
+Slow Cooker Beef Barley And Mushroom Stew,444,53.8,49,12.8,29.6,825.2,https://www.allrecipes.com/recipe/282612/slow-cooker-beef-barley-and-mushroom-stew/
+Slow Cooker Mac And Cheese,432,33.9,99,24.7,17.8,524.2,https://www.allrecipes.com/recipe/237311/slow-cooker-mac-and-cheese/
+Slow Cooker Pulled Pork,335,49.4,49.1,5,21.2,990.1,https://www.allrecipes.com/recipe/141678/slow-cooker-pulled-pork/
+Hobo Ground Beef And Vegetable Soup,354,45.9,45.9,10.4,22.4,1465,https://www.allrecipes.com/recipe/234407/hobo-ground-beef-and-vegetable-soup/
+Slow Cooker Pork Cacciatore,614,41.8,82.4,31,34.5,1484.7,https://www.allrecipes.com/recipe/68943/slow-cooker-pork-cacciatore/
+Slow Cooker Creamy Pot Roast,336,11.1,107.7,16.9,33.4,1152.8,https://www.allrecipes.com/recipe/241726/slow-cooker-creamy-pot-roast/
+Slow Cooked Stew Meat Chili,268,30.4,23.4,9.3,15.6,966.9,https://www.allrecipes.com/recipe/276968/slow-cooked-stew-meat-chili/
+Slow Cooker Ground Chicken Chili,406,54.6,50.6,7.9,32.7,1620.6,https://www.allrecipes.com/recipe/274091/slow-cooker-ground-chicken-chili/
+Kashmiri Lamb,489,16.1,88.4,35.4,28.1,132,https://www.allrecipes.com/recipe/220560/kashmiri-lamb/
+Busy Day Barbeque Brisket,370,19.4,69.9,24.1,17.8,1194.2,https://www.allrecipes.com/recipe/138023/busy-day-barbeque-brisket/
+Mile High Green Chili,174,8.6,31.6,12,7.6,210.4,https://www.allrecipes.com/recipe/218772/mile-high-green-chili/
+Hearty Vegan Slow Cooker Chili,134,24.8,,2.4,6.3,616.7,https://www.allrecipes.com/recipe/215311/hearty-vegan-slow-cooker-chili/
+Best Beef Dip Ever,290,2.5,82.5,20.4,22.8,1498.4,https://www.allrecipes.com/recipe/50235/best-beef-dip-ever/
+Slow Cooker Hawaiian Chicken,274,29.7,78.1,3.2,29.4,727.8,https://www.allrecipes.com/recipe/239319/slow-cooker-hawaiian-chicken/
+Slow Cooker Pineapple Teriyaki Pork Chops,283,14.4,65.3,11.8,28,1728.7,https://www.allrecipes.com/recipe/279593/slow-cooker-pineapple-teriyaki-pork-chops/
+Slow Cooker Teriyaki Chicken,174,16,52.9,2.3,20.9,1385,https://www.allrecipes.com/recipe/274429/slow-cooker-teriyaki-chicken/
+All Day Venison Pot Roast,343,19.6,160.8,7.9,47,1043.4,https://www.allrecipes.com/recipe/219327/all-day-venison-pot-roast/
+Hungarian Goulash Ii,281,15.3,68.6,15.8,19.2,1099.6,https://www.allrecipes.com/recipe/19956/hungarian-goulash-ii/
+Winter Lentil Vegetable Soup,112,21.9,1.7,0.6,6.4,938,https://www.allrecipes.com/recipe/22142/winter-lentil-vegetable-soup/
+Lauras Quick Slow Cooker Turkey Chili,276,32.8,41.8,7.6,21.2,547.2,https://www.allrecipes.com/recipe/82768/lauras-quick-slow-cooker-turkey-chili/
+Easy Slow Cooker Chicken Fajitas,417,47.2,96.9,5.5,45.5,1793.3,https://www.allrecipes.com/recipe/259768/easy-slow-cooker-chicken-fajitas/
+Slow Cooker Oats,208,37.2,10.2,5.6,3.9,34.6,https://www.allrecipes.com/recipe/218929/slow-cooker-oats/
+Slow Cooker Adobo Chicken,254,5.3,61.5,14.7,23,1121.4,https://www.allrecipes.com/recipe/15650/slow-cooker-adobo-chicken/
+Easy Slow Cooker Chili,382,50,53.9,12.2,26.1,1644.9,https://www.allrecipes.com/recipe/241736/easy-slow-cooker-chili/
+Slow Cooker Moose Roast,172,6.3,73.7,3.3,27.8,272.6,https://www.allrecipes.com/recipe/48390/slow-cooker-moose-roast/
+Healthier Maries Easy Slow Cooker Pot Roast,350,25.4,78.8,15.5,26.7,127.5,https://www.allrecipes.com/recipe/222080/healthier-maries-easy-slow-cooker-pot-roast/
+Slow Cooker Chicken Fajitas,208,18,42.7,7.5,16.5,436.4,https://www.allrecipes.com/recipe/259769/slow-cooker-chicken-fajitas/
+Slow Cooked Beef Loin Tri Tip Roast,430,3.9,139.4,23.9,47.2,253.5,https://www.allrecipes.com/recipe/240654/slow-cooked-beef-loin-tri-tip-roast/
+Slow Cooker Chicken Pot Pie Stew,263,33.7,36.8,6.9,17.1,1415.6,https://www.allrecipes.com/recipe/180118/slow-cooker-chicken-pot-pie-stew/
+Slow Cooker German Style Pork Roast With Sauerkraut And Potatoes,386,30.5,82.9,15.2,31.3,809.8,https://www.allrecipes.com/recipe/146229/slow-cooker-german-style-pork-roast-with-sauerkraut-and-potatoes/
+Slow Cooker Ribs,455,21.3,136.3,23.6,36.6,1819.1,https://www.allrecipes.com/recipe/216773/slow-cooker-ribs/
+Slow Cooker Tender And Yummy Round Steak,393,33.1,80.5,13.6,33.8,828.6,https://www.allrecipes.com/recipe/16399/slow-cooker-tender-and-yummy-round-steak/
+Sweet And Sour Meatballs I,562,37.5,136.8,35.2,24,98.8,https://www.allrecipes.com/recipe/14658/sweet-and-sour-meatballs-i/
+Vegetarian Buffalo Chicken Dip,187,11.7,24.1,11.4,8.9,1023.7,https://www.allrecipes.com/recipe/213217/vegetarian-buffalo-chicken-dip/
+Slow Cooker Root Beer Pulled Pork,345,4.3,71.5,27.8,18.6,1211.1,https://www.allrecipes.com/recipe/241143/slow-cooker-root-beer-pulled-pork/
+Bbq Beef Brisket Sandwiches,452,22,69.9,31.6,18.1,2011.2,https://www.allrecipes.com/recipe/256535/bbq-beef-brisket-sandwiches/
+Easy Slow Cooker Chicken Tikka Masala,456,10.4,182.1,27.9,40.7,760.5,https://www.allrecipes.com/recipe/240337/easy-slow-cooker-chicken-tikka-masala/
+Asian Style Country Ribs,653,13.9,176.6,44,48.4,2528.6,https://www.allrecipes.com/recipe/191199/asian-style-country-ribs/
+Easy Slow Cooker Cheesy Potato Soup With Ham,518,27.7,109.5,42.4,24.2,1846.4,https://www.allrecipes.com/recipe/273023/easy-slow-cooker-cheesy-potato-soup-with-ham/
+Slow Cooker Chicken Enchilada Soup,267,37.4,31.7,2.7,20.6,1594.8,https://www.allrecipes.com/recipe/256820/slow-cooker-chicken-enchilada-soup/
+Jerres Black Bean And Pork Tenderloin Slow Cooker Chili,245,31.9,37.1,2.8,24,1044.6,https://www.allrecipes.com/recipe/193873/jerres-black-bean-and-pork-tenderloin-slow-cooker-chili/
+Slow Cooker Mashed Potatoes,470,47.9,74,27.7,8.8,702.9,https://www.allrecipes.com/recipe/25895/slow-cooker-mashed-potatoes/
+Emilys Chipotle Chili,448,23.5,99.5,24.9,32.9,1475.9,https://www.allrecipes.com/recipe/150297/emilys-chipotle-chili/
+Slow Cooker Shredded Venison For Tacos,403,7.1,235.3,10.8,64.1,449,https://www.allrecipes.com/recipe/18853/slow-cooker-shredded-venison-for-tacos/
+African Sweet Potato Stew,231,43.1,,4.2,7.4,568.8,https://www.allrecipes.com/recipe/245682/african-sweet-potato-stew/
+Country Cooking Slow Cooker Neck Bones,518,1.3,100.7,47.8,19.1,352.1,https://www.allrecipes.com/recipe/181017/country-cooking-slow-cooker-neck-bones/
+Beef Stifado In The Slow Cooker,378,20.6,79.8,15.7,30.7,261.2,https://www.allrecipes.com/recipe/268640/beef-stifado-in-the-slow-cooker/
+Slow Cooker Vegetable Soup,333,57.2,,7.8,9.2,617.6,https://www.allrecipes.com/recipe/228114/slow-cooker-vegetable-soup/
+Slow Cooker Funeral Potatoes Hash Brown Casserole,337,24.6,54.2,21.8,10.2,1087.3,https://www.allrecipes.com/recipe/282587/slow-cooker-funeral-potatoes-hash-brown-casserole/
+Eggplant Parmesan For The Slow Cooker,401,38.6,89.5,18.3,23,1870.3,https://www.allrecipes.com/recipe/223360/eggplant-parmesan-for-the-slow-cooker/
+Tender Pheasants,256,3.9,69.2,17.6,19.7,467.5,https://www.allrecipes.com/recipe/216198/tender-pheasants/
+Pepperoncini Beef,998,71.5,159.7,52.7,55.9,2550.1,https://www.allrecipes.com/recipe/34929/pepperoncini-beef/
+Spicy Beef Curry Stew For The Slow Cooker,291,7.6,62.5,19.1,20.6,441.7,https://www.allrecipes.com/recipe/74788/spicy-beef-curry-stew-for-the-slow-cooker/
+Kalua Pig In A Slow Cooker,243,,82.4,14.7,25.9,714.6,https://www.allrecipes.com/recipe/24035/kalua-pig-in-a-slow-cooker/
+Boneless Chicken Breast With Tomatoes Coconut Milk And Chickpeas In The Slow Cooker,454,52.4,57.8,15.2,30.3,1550.4,https://www.allrecipes.com/recipe/261146/boneless-chicken-breast-with-tomatoes-coconut-milk-and-chickpeas-in-the-slow-cooker/
+Slow Cooker Chicken Alfredo,610,8.8,126.3,50.9,31.6,1591.6,https://www.allrecipes.com/recipe/91890/slow-cooker-chicken-alfredo/
+Slow Cooker Creamy Chicken Taco Soup,302,12.2,73.5,18.4,21.7,2172.4,https://www.allrecipes.com/recipe/278888/slow-cooker-creamy-chicken-taco-soup/
+Easy Cornish Hens,516,4.5,152.2,43.6,26.4,650.1,https://www.allrecipes.com/recipe/229872/easy-cornish-hens/
+Slow Cooker Baked Beans Using Canned Beans,207,38.3,5.2,2.3,9.7,355.2,https://www.allrecipes.com/recipe/222258/slow-cooker-baked-beans-using-canned-beans/
+Bone Broth,49,11.4,,0.2,1.8,186.2,https://www.allrecipes.com/recipe/241013/bone-broth/
+Slow Cooker French Onion Soup,250,17.5,37.6,14.7,11,595.9,https://www.allrecipes.com/recipe/228859/slow-cooker-french-onion-soup/
+Split Pea Soup With Homemade Ham Bone Stock,322,55.7,3.8,2.4,16.5,1637.3,https://www.allrecipes.com/recipe/262026/split-pea-soup-with-homemade-ham-bone-stock/
+North Carolina Pulled Pork,209,17.8,56.8,6.4,19.7,265.1,https://www.allrecipes.com/recipe/235369/north-carolina-pulled-pork/
+Super Duper Slow Cooker Beef Stroganoff,394,14.3,97.4,24.2,26.3,655.1,https://www.allrecipes.com/recipe/236867/super-duper-slow-cooker-beef-stroganoff/
+Slow Cooker Chicken Taco Soup,434,42.3,67.8,17.7,27.2,1596.8,https://www.allrecipes.com/recipe/70343/slow-cooker-chicken-taco-soup/
+Colorado Buffalo Chili,219,29.8,39,2.8,22.3,725.5,https://www.allrecipes.com/recipe/154121/colorado-buffalo-chili/
+Slow Cooker Beef Neck Bones And Gravy,124,12.8,,7.2,2.7,459.9,https://www.allrecipes.com/recipe/244952/slow-cooker-beef-neck-bones-and-gravy/
+Mild Mannered Chili,198,25.4,33.5,4.4,16.5,837.6,https://www.allrecipes.com/recipe/234627/mild-mannered-chili/
+Slow Cooker Sausage With Sauce,1024,88.2,116.9,57.4,35.5,2356.2,https://www.allrecipes.com/recipe/70702/slow-cooker-sausage-with-sauce/
+Pork Chops For The Slow Cooker,146,10.6,36,4.3,16,1336.6,https://www.allrecipes.com/recipe/25150/pork-chops-for-the-slow-cooker/
+Southwest Black Bean Chicken Soup,389,43.7,55.3,13.1,26.6,1740.5,https://www.allrecipes.com/recipe/53465/southwest-black-bean-chicken-soup/
+Slow Cooker Fish Chowder,235,27.9,56.5,6,18.4,723.5,https://www.allrecipes.com/recipe/223416/slow-cooker-fish-chowder/
+Slow Cooker Carolina Bbq,293,3.6,90.5,17.3,27.6,775.5,https://www.allrecipes.com/recipe/148544/slow-cooker-carolina-bbq/
+Slow Cooker Apple Cider Braised Pork,389,13.5,97.1,25.9,23.6,126.9,https://www.allrecipes.com/recipe/230568/slow-cooker-apple-cider-braised-pork/
+Fast And Easy Slow Cooked Short Ribs,501,5.7,95.2,42.5,22.7,549.1,https://www.allrecipes.com/recipe/237049/fast-and-easy-slow-cooked-short-ribs/
+Hatch Chili,360,35.5,60.5,12.5,26.3,3164.6,https://www.allrecipes.com/recipe/266314/hatch-chili/
+Island Kielbasa In A Slow Cooker,867,107.5,99.9,41.6,20.3,2280.5,https://www.allrecipes.com/recipe/20057/island-kielbasa-in-a-slow-cooker/
+Slow Cooker Venison Roast,314,10,171.3,8,48,1881.7,https://www.allrecipes.com/recipe/23825/slow-cooker-venison-roast/
+Awesome Slow Cooker Buffalo Wings,386,3.5,108.6,34.4,16.1,2472.2,https://www.allrecipes.com/recipe/230993/awesome-slow-cooker-buffalo-wings/
+Healthier Slow Cooker Chicken And Dumplings,248,29.3,40.5,7.1,16.2,758,https://www.allrecipes.com/recipe/222117/healthier-slow-cooker-chicken-and-dumplings/
+Slow Cooked Goose,1362,16.9,499.6,72,152,1367,https://www.allrecipes.com/recipe/229864/slow-cooked-goose/
+Slow Cooker Cauliflower Casserole,323,9.6,90.2,25.9,14.7,858.3,https://www.allrecipes.com/recipe/278036/slow-cooker-cauliflower-casserole/
+Chipotle Barbacoa,244,7.3,71,14.1,21.6,448.9,https://www.allrecipes.com/recipe/246836/chipotle-barbacoa/
+Garlic Pork Roast,532,27.8,147.9,22.8,51.4,578.6,https://www.allrecipes.com/recipe/41444/garlic-pork-roast/
+Pulled Pork Yall,418,24.7,89.5,24.2,23.3,727.2,https://www.allrecipes.com/recipe/240593/pulled-pork-yall/
+Meat Lovers Slow Cooker Spaghetti Sauce,264,18.8,45.2,14.8,15,1025.1,https://www.allrecipes.com/recipe/213266/meat-lovers-slow-cooker-spaghetti-sauce/
+Mississippi Roast Slow Cooker Pepperoncini Pot Roast,537,5.8,151.2,39.3,36.5,1479.1,https://www.allrecipes.com/recipe/246721/mississippi-roast-slow-cooker-pepperoncini-pot-roast/
+Sesame Chicken For Slow Cooker,364,41.1,87.8,7.3,34.7,1060,https://www.allrecipes.com/recipe/241601/sesame-chicken-for-slow-cooker/
+Slow Cooker Homemade Beans,296,57,5,3,12.4,1312.2,https://www.allrecipes.com/recipe/58389/slow-cooker-homemade-beans/
+Kris Amazing Shredded Mexican Beef,338,4.3,96.8,20.8,31.2,426.4,https://www.allrecipes.com/recipe/217843/kris-amazing-shredded-mexican-beef/
+Slow Cooker Lengua Beef Tongue,492,1.2,223.5,38.8,32.1,122.9,https://www.allrecipes.com/recipe/236880/slow-cooker-lengua-beef-tongue/
+Slow Cooker Pork Roast,406,32.6,91.6,19,25.8,506.3,https://www.allrecipes.com/recipe/235924/slow-cooker-pork-roast/
+Slow Cooker Pepper Steak,301,11.7,65.4,15.8,28.2,1188.6,https://www.allrecipes.com/recipe/23567/slow-cooker-pepper-steak/
+Slow Cooker Chicken Bone Broth,414,5.5,143,29.4,30.1,376.4,https://www.allrecipes.com/recipe/275943/slow-cooker-chicken-bone-broth/
+Slow Cooker Beef Stew I,576,29.8,131.5,30.3,44.1,541.5,https://www.allrecipes.com/recipe/14685/slow-cooker-beef-stew-i/
+Slow Cooker Spanish Beef Stew,241,13.6,39.8,11.6,19.6,821.7,https://www.allrecipes.com/recipe/236483/slow-cooker-spanish-beef-stew/
+Slow Cooker Beef Vegetable Soup,364,38.8,50.7,16.2,20,1251.6,https://www.allrecipes.com/recipe/14986/slow-cooker-beef-vegetable-soup/
+Slow Cooker Hamburger Soup With Macaroni,380,55.1,33.2,9.6,20.8,654.1,https://www.allrecipes.com/recipe/282402/slow-cooker-hamburger-soup-with-macaroni/
+So Simple Beef Stroganoff,329,10.2,91,21,24.6,1241,https://www.allrecipes.com/recipe/230301/so-simple-beef-stroganoff/
+Slow Cooker Cheesy Broccoli Soup,613,20.6,156.3,50.8,21.7,1701.1,https://www.allrecipes.com/recipe/282496/slow-cooker-cheesy-broccoli-soup/
+Slow Cooker Chicken Tinga,131,3.9,30.2,8.1,10.2,418.4,https://www.allrecipes.com/recipe/232554/slow-cooker-chicken-tinga/
+Leftover Turkey Soup Slow Cooker,1877,54.5,426.3,140.8,92.5,1541.5,https://www.allrecipes.com/recipe/235330/leftover-turkey-soup-slow-cooker/
+Johnnys Slow Cooker London Broil,418,30.6,58.7,18.7,27.8,795.5,https://www.allrecipes.com/recipe/235380/johnnys-slow-cooker-london-broil/
+Crock Pot Or Slow Cooked Flank Steak,292,2.7,69.8,14.2,36.4,99.4,https://www.allrecipes.com/recipe/157154/crock-pot-or-slow-cooked-flank-steak/
+Slow Cooker Chicken Cacciatore,261,23.7,63.4,6.1,27.1,589.8,https://www.allrecipes.com/recipe/8817/slow-cooker-chicken-cacciatore/
+Easy Slow Cooker Chicken Soup,165,13,40.6,4.8,17.2,809.5,https://www.allrecipes.com/recipe/230614/easy-slow-cooker-chicken-soup/
+Middle Eastern White Beans,229,36.5,,5.3,10.6,351.3,https://www.allrecipes.com/recipe/82184/middle-eastern-white-beans/
+Slow Cooker Beef Roast,284,17.4,79.9,9.2,31.2,523.7,https://www.allrecipes.com/recipe/155154/slow-cooker-beef-roast/
+Slow Cooker Chicken Quesadillas,672,43.8,112.8,42.6,37.5,1900.7,https://www.allrecipes.com/recipe/267953/slow-cooker-chicken-quesadillas/
+Slow Cooker Spaghetti Squash,54,12.1,,1,1.1,32.4,https://www.allrecipes.com/recipe/240068/slow-cooker-spaghetti-squash/
+Moist Slow Cooker Roast Beef Without Vegetables,232,3.8,64.6,16,17,637.7,https://www.allrecipes.com/recipe/281868/moist-slow-cooker-roast-beef-without-vegetables/
+Slow Cooker 3 Bean Chili,238,29,41.8,5.2,19.8,877.8,https://www.allrecipes.com/recipe/236091/slow-cooker-3-bean-chili/
+Slow Cooker Baked Potatoes,254,51.2,,3.6,6.1,114.2,https://www.allrecipes.com/recipe/215314/slow-cooker-baked-potatoes/
+Slow Cooker Sweet And Sour Chicken Thighs,297,31.9,68.7,9.9,20.4,428,https://www.allrecipes.com/recipe/282440/slow-cooker-sweet-and-sour-chicken-thighs/
+Slow Cooker Chicken Mole,289,28.1,58.5,9.2,28.3,290.2,https://www.allrecipes.com/recipe/217186/slow-cooker-chicken-mole/
+Slow Cooker Sauerkraut Pork Loin,460,7.8,143.3,24.5,49.7,598.8,https://www.allrecipes.com/recipe/218222/slow-cooker-sauerkraut-pork-loin/
+Bbq Pork For Sandwiches,355,15.2,82.9,18.1,30.2,623.2,https://www.allrecipes.com/recipe/21174/bbq-pork-for-sandwiches/
+Sweet And Sour Beef,321,41.8,59.8,6.5,23.1,2090,https://www.allrecipes.com/recipe/235405/sweet-and-sour-beef/
+The Sarges Goetta German Breakfast Treat,511,29,69.5,35.6,18,1036.3,https://www.allrecipes.com/recipe/45652/the-sarges-goetta-german-breakfast-treat/
+Maries Easy Slow Cooker Pot Roast,540,18.2,147.4,30.6,45.7,271.9,https://www.allrecipes.com/recipe/16346/maries-easy-slow-cooker-pot-roast/
+Delicious Beef Tongue Tacos,227,14,65.5,14,11.4,46.2,https://www.allrecipes.com/recipe/157899/delicious-beef-tongue-tacos/
+Slow Cooker Venison Stroganoff Meal,790,87.7,231,23.5,54.5,1144.6,https://www.allrecipes.com/recipe/163894/slow-cooker-venison-stroganoff-meal/
+Slow Cooker Squirrel And Veggies,520,82.7,105.2,4.9,37,1357.4,https://www.allrecipes.com/recipe/157849/slow-cooker-squirrel-and-veggies/
+Mongolian Beef From The Slow Cooker,320,36.3,35.6,12.7,15.7,1856.7,https://www.allrecipes.com/recipe/241165/mongolian-beef-from-the-slow-cooker/
+Slow Cooker Taco Soup,362,37.8,48.5,16.3,18.2,1356,https://www.allrecipes.com/recipe/16678/slow-cooker-taco-soup/
+Round Steak Sauerbraten,441,8.2,114.1,29.6,33.3,654.8,https://www.allrecipes.com/recipe/16329/round-steak-sauerbraten/
+Slow Cooker Pot Roast,385,20.8,86.8,22,23.9,1287.8,https://www.allrecipes.com/recipe/218547/slow-cooker-pot-roast/
+Karens Slow Cooker Chicken Fajitas,332,42.9,37.6,9.2,19.1,918.9,https://www.allrecipes.com/recipe/232197/karens-slow-cooker-chicken-fajitas/
+Slow Cooker Au Jus Pot Roast,386,2.8,103.4,29,26.9,697.8,https://www.allrecipes.com/recipe/229957/slow-cooker-au-jus-pot-roast/
+Ericas Delicious Slow Cooker Beef Roast,577,12.1,145.2,36.2,47.9,650.4,https://www.allrecipes.com/recipe/16260/ericas-delicious-slow-cooker-beef-roast/
+The Ultimate Chili,414,49.5,49.6,11,28.4,1015,https://www.allrecipes.com/recipe/13067/the-ultimate-chili/
+Slow Cooker Sauerkraut And Sausage,640,19,92.6,55.1,17.2,1652.7,https://www.allrecipes.com/recipe/17507/slow-cooker-sauerkraut-and-sausage/
+Slow Cooker Vegetarian Curry,151,32.1,,0.7,6.7,44.6,https://www.allrecipes.com/recipe/273876/slow-cooker-vegetarian-curry/
+Chads Slow Cooker Taco Soup,195,19.4,27.2,8.1,10.9,838.9,https://www.allrecipes.com/recipe/187504/chads-slow-cooker-taco-soup/
+Mothers Pot Roast,552,10.2,149.7,36.6,45.2,570.4,https://www.allrecipes.com/recipe/14648/mothers-pot-roast/
+Slow Cooker Lemon Garlic Chicken Ii,192,1.3,88.2,7,29.6,347.6,https://www.allrecipes.com/recipe/18032/slow-cooker-lemon-garlic-chicken-ii/
+Slow Cooker Cocktail Smokies,377,28.3,56.4,24.6,11.1,1278.3,https://www.allrecipes.com/recipe/213073/slow-cooker-cocktail-smokies/
+Slow Cooker Roast Beef In Its Own Gravy,332,20.9,72.3,18.3,19.9,982.8,https://www.allrecipes.com/recipe/238445/slow-cooker-roast-beef-in-its-own-gravy/
+Roast In A Slow Cooker,660,24,143.9,45.9,36.2,1279.7,https://www.allrecipes.com/recipe/235761/roast-in-a-slow-cooker/
+Easy Slow Cooker Chicken Wings,284,13.7,65.5,15.3,22.4,720.1,https://www.allrecipes.com/recipe/24791/easy-slow-cooker-chicken-wings/
+Slow Cooker Balsamic Chicken,200,17.6,43.1,6.8,18.6,223.5,https://www.allrecipes.com/recipe/234664/slow-cooker-balsamic-chicken/
+Awesome Slow Cooker Pot Roast,426,4.9,126.8,23.7,45.6,638.7,https://www.allrecipes.com/recipe/16066/awesome-slow-cooker-pot-roast/
+Slow Cooker Lentil Soup,259,26.7,25.4,8.9,18,736.5,https://www.allrecipes.com/recipe/277942/slow-cooker-lentil-soup/
+Sweet And Savory Slow Cooker Pulled Pork,485,45.5,81.4,19.1,28.5,985.4,https://www.allrecipes.com/recipe/213262/sweet-and-savory-slow-cooker-pulled-pork/
+Slow Cooker Latin Chicken,591,56.9,136.8,18.1,50.2,980.2,https://www.allrecipes.com/recipe/177078/slow-cooker-latin-chicken/
+Slow Cooker Autumn Delight,562,66,78,21.4,26,1944.5,https://www.allrecipes.com/recipe/231252/slow-cooker-autumn-delight/
+Slow Cooker Pumpkin Turkey Chili,338,41.9,56,9.1,25.1,856.6,https://www.allrecipes.com/recipe/228404/slow-cooker-pumpkin-turkey-chili/
+Queso Cheese Dip,293,9.9,57.8,21.5,15.7,744.2,https://www.allrecipes.com/recipe/238849/queso-cheese-dip/
+Slow Cooker Boneless Turkey Breast,468,5.5,273.1,2.6,99.7,814.9,https://www.allrecipes.com/recipe/229664/slow-cooker-boneless-turkey-breast/
+Slow Cooker Macaroni And Cheese With Broccoli,549,47.1,85.7,27.6,28.3,465,https://www.allrecipes.com/recipe/220490/slow-cooker-macaroni-and-cheese-with-broccoli/
+Barbecued Beef,276,13.5,65.4,16.2,18.7,562.3,https://www.allrecipes.com/recipe/14646/barbecued-beef/
+Easy Slow Cooker Ham,753,47.9,127.2,42.8,42.4,2941.4,https://www.allrecipes.com/recipe/99851/easy-slow-cooker-ham/
+Jennies Heavenly Slow Cooker Chicken,456,13,133.3,28.3,26,1671.6,https://www.allrecipes.com/recipe/215033/jennies-heavenly-slow-cooker-chicken/
+Awesome Roast Beef,308,3.3,87.7,16.1,35.3,658.4,https://www.allrecipes.com/recipe/26583/awesome-roast-beef/
+Slow Cooker Chili Ii,273,33.4,34.4,7.6,18.9,975,https://www.allrecipes.com/recipe/48449/slow-cooker-chili-ii/
+Easy Slow Cooker White Chicken Chili,201,27.4,22.5,4.5,14.3,512.3,https://www.allrecipes.com/recipe/255273/easy-slow-cooker-white-chicken-chili/
+Slow Cooker Potato Bacon Soup,380,35.2,59.5,19.8,16.2,580.6,https://www.allrecipes.com/recipe/277373/slow-cooker-potato-bacon-soup/
+Best Ever Slow Cooker Italian Beef Roast,285,6,77.5,18.8,20.7,1108.8,https://www.allrecipes.com/recipe/229006/best-ever-slow-cooker-italian-beef-roast/
